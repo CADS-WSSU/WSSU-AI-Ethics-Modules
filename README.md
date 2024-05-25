@@ -60,7 +60,7 @@ This repository is intended to be a central open-source resource for all modules
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">AI in Business Ethics</a></td>
+      <td><a href="AI in Business Ethics">AI in Business Ethics</a></td>
       <td>
         BUA 3302: Business Ethics
       </td>
