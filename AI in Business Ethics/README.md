@@ -24,23 +24,34 @@ Each case study incorporates all five elements since students cannot evaluate an
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Lectures">Overview</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Overview">Overview</a></td>
       <td>
         <ul>
-          <li>Introduction to Data Science</li>
-          <li>Color Analysis</li>
+          <li>Module Overview</li>
+          <li>AI Ethics Principles/guidelines</li>
+          <li>Learning Outcomes</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Project%20and%20Assignments">Project and Assignments</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Project%20and%20Assignments">Case Studies 1-5</a></td>
       <td>
         <ul>
-          <li>3 Assignments leading up to a Final Project</li>
-          <li>Assignemnt 1: Color Harmonies</li>
-          <li>Assignemnt 2: Pie Charts with Python</li>
-          <li>Assignemnt 3: Color Wheels</li>
-          <li>Color Analysis Project</li>
+          <li>Description</li>
+          <li>Goals</li>
+          <li>Key Philosophical Questions</li>
+          <li>Tags</li>
+          <li>Assigned Readings</li>
+          <li>Implementation within a two-day-a-week course</li>
+          <li>Assessment of the Student Learning Experience</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Student%20Work%20Examples">Instructor Guide</a></td>
+      <td>
+        <ul>
+          <li>Video Guideline About Case Studies 1-5</li>
         </ul>
       </td>
     </tr>
@@ -52,19 +63,11 @@ Each case study incorporates all five elements since students cannot evaluate an
         </ul>
       </td>
     </tr>
-     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Tutorials">Tutorials</a></td>
-      <td>
-        <ul>
-          <li>Setting up Python and Anaconda</li>
-          <li>Image Processing with Python</li>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Hye Young Kim, Instructor of this module and Assistant Professor of the Department of Art and Visual Studies at Winston-Salem State University](mailto:kimhy@wssu.edu)
+* [Dr. Zagros Madjd-Sadjadi, Instructor of this module and Full Professor of Economics & Chair of the Department of Accounting, Economics, and Finance
+at Winston-Salem State University](mailto:sadjadizm@wssu.edu)
 * [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
