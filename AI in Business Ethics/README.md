@@ -38,7 +38,7 @@ Each case study incorporates all five elements since students cannot evaluate an
         <ul>
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%201">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%202">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
-          <li><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Project%20and%20Assignments">Case Study 3: </a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%203">Case Study 3: </a></li>
           <li><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Project%20and%20Assignments">Case Study 4: </a></li>
           <li><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Project%20and%20Assignments">Case Study 5: </a></li>
         </ul>
