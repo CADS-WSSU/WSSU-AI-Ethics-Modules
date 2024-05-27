@@ -66,9 +66,6 @@ Each case study incorporates all five elements since students cannot evaluate an
     <tr>
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Assessment%20of%20the%20Student%20Learning%20Experience">Assessment of the Student Learning Experience</a></td>
       <td>
-        <ul>
-          <li>Video Guideline About Case Studies 1-5</li>
-        </ul>
       </td>
     </tr>
     <tr>
