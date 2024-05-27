@@ -56,7 +56,7 @@ Each case study incorporates all five elements since students cannot evaluate an
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Student%20Work%20Examples">Instructor Guide</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Instructor%20Guide">Instructor Guide</a></td>
       <td>
         <ul>
           <li>Video Guideline About Case Studies 1-5</li>
@@ -64,7 +64,15 @@ Each case study incorporates all five elements since students cannot evaluate an
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2022-2023-Faculty-Adopter-Modules/tree/main/ART-4320-Photography%20II-Data-Science-Module/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Assessment%20of%20the%20Student%20Learning%20Experience">Assessment of the Student Learning Experience</a></td>
+      <td>
+        <ul>
+          <li>Video Guideline About Case Studies 1-5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="">Student Work Examples</a></td>
       <td>
         <ul>
           <li>Student Project Submissions</li>
