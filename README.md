@@ -8,64 +8,72 @@ This repository is intended to be a central open-source resource for all modules
   <tbody>
     <tr>
       <th>Module Name</th>
-      <th>Module for Course</th>
-      <th>Course Level</th>
+      <th>Course</th>
+      <th>Method of Instruction</th>
+      <th>Topics Covered</th>
+      <th>AI Ethical Principle Covered</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main">Mathematics</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main">AI Ethics Module in Elementary Statistics</a></td>
       <td>
-        MAT 2326: Elementary Statistics
+        Mathematics
       </td>
       <td>
-        Second undergraduate degree
+        Hands-on
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module-main">Chemistry</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module-main">Responsibly Introducing AI to Chemistry Students</a></td>
       <td>
-       CHE 1114: General Chemistry II Laboratory
+       Chemistry 
+      </td>
+      <td>
+        Hands-on
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module-main">Ethical AI in Writing: Evaluating Bias and Fairness</a></td>
       <td>
-      ENG 3302: Advanced Composition
+      English
       </td>
        <td>
-      Junior/Senior
+      Hands-on
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module-main">Foreign Language Studies: World Film</a></td>
       <td>
-        FLS2301-01: World Language Films
+        World Languages and Cultures
       </td>
       <td>
-        Sophomore
+        Hands-on
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Responsible and Ethical Use of AI in Biomechanics</a></td>
       <td>
-        EXS 3315: Biomechanics
+        Exercise Physiology
       </td>
       <td>
-        Junior/Senior
+        Hands-on
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">ETHICAL USE OF AI FOR ARTISTS</a></td>
       <td>
-       Art 4399-01: Ethics and Artificial Intelligence and Art 
+       Arts and Visual Studies
+      </td>
+      <td>
+       Hands-on
       </td>
     </tr>
     <tr>
       <td><a href="AI in Business Ethics">AI in Business Ethics</a></td>
       <td>
-        BUA 3302: Business Ethics
+        Accounting, Economics, and Finance
       </td>
       <td>
-        Upper Division
+        Case-Study
       </td>
     </tr>
   
