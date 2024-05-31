@@ -4,12 +4,24 @@ This repository compiles 7 modules aimed at integrating AI Ethics with a focus o
 
 This repository is intended to be a central open-source resource for all modules and materials created as part of the program. These resources can be used for reference or adoption to increase awareness about the ethical use of AI among students at various academic levels.
 
-### AI Ethics and the Importance of the Responsible Use of AI 
-AI ethics refers to the principles and guidelines that govern the moral and societal implications of artificial intelligence (AI) technologies. It focuses on ensuring that AI systems are developed and used in ways that align with ethical principles and promote the well-being of individuals and society as a whole.
+### What is AI Ethics 
+AI ethics involves guiding principles for the responsible use of artificial intelligence to ensure alignment with ethical standards and the well-being of individuals and society. There are many sets of AI ethics principles available created by renowned organizations. For this project, we have followed the principles described by [Montreal](https://montrealdeclaration-responsibleai.com/the-declaration/) and [UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics). We chose the UNESCO principles because they are universal principles adopted by 193 Nations (the US is not a member in 2021), and the Montreal principles align with WSSU values. Faculty members were free to choose from either or both of these principles, as they would broaden student perspectives on AI ethics. The key points of both sets of principles are described below:
 
-AI ethics encompasses the moral and societal implications of artificial intelligence (AI) to ensure its responsible use. Ensuring the responsible use of AI is crucial for the well-being of individuals and society as a whole. There are many AI ethics principles available created by renowned organizations. For this project, we have followed the principles described by [Montreal](https://montrealdeclaration-responsibleai.com/the-declaration/) and [UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics). Faculties were free to choose from either or both of these principles. The key points of both of these principles are described below: 
+* The Montréal Declaration for a Responsible Development of Artificial Intelligence - 10 Principles:
+   
+  i) Well-Being  ii) Respect for autonomy iii) Protection of privacy and intimacy iv) Solidarity v) Democratic participation vi) Equity vii) Diversity inclusion viii) Prudence ix) Responsibility x) Sustainable development
 
-* 
+* Recommendation on the Ethics of Artificial Intelligence by UNESCO - 10 Principles:
+   
+  i) Proportionality and Do No Harm  ii) Safety and Security iii) Right to Privacy and Data Protection iv) Multi-stakeholder and Adaptive Governance & Collaboration v) Responsibility and Accountability vi) Transparency and Explainability vii) Human Oversight and Determination viii) Sustainability ix) Awareness & Literacy x) Fairness and Non-Discrimination
+
+### Rubric and Assessment
+Faculty members have used the Ethical Reasoning Value Rubric developed by AACU (The American Association of Colleges and Universities) to assess students. This rubric consists of 5 evaluation criteria that will be used to grade students. Faculty members had the option to choose any combination of criteria or use all of them for evaluation. The AACU ER Value Rubric is presented below: 
+
+![AACU_ER_ValueRubric_page-0002](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/151f0ce4-09ad-4e8c-b7f2-23c2fe3bea01)
+
+### Acknowledgement
+This grant is Supported by the Responsible Computing Challenge, a partnership of Omidyar Network, Mozilla, Schmidt Futures, Craig Newmark Philanthropies, Rockefeller Brothers Fund, and Mellon Foundation.
 
 # Navigating the Repository
 <table>
