@@ -33,6 +33,20 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       <th>Topics Covered</th>
       <th>AI Ethical Principle Covered</th>
     </tr>
+     <tr>
+      <td><a href="AI in Business Ethics">AI in Business Ethics</a></td>
+      <td>
+        Accounting, Economics, and Finance
+      </td>
+      <td>
+        Case-Study
+      </td>
+        <td>
+        Principle of Responsibility, Respect for Autonomy, Principle of Diversity Inclusion, Principle of Democratic Participation, Principle of Equity
+, 
+
+      </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main">AI Ethics Module in Elementary Statistics</a></td>
       <td>
@@ -87,15 +101,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
        Hands-on
       </td>
     </tr>
-    <tr>
-      <td><a href="AI in Business Ethics">AI in Business Ethics</a></td>
-      <td>
-        Accounting, Economics, and Finance
-      </td>
-      <td>
-        Case-Study
-      </td>
-    </tr>
+    
   
   </tbody>
 </table>
