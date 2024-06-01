@@ -38,8 +38,11 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       <td>
         Accounting, Economics, and Finance
       </td>
-      <td>
-        Case-Study, Hands-on Implementation using Moral Machine, Harvard Implicit Association Test, Chat GPT/Open A
+        <td>
+        Case-Study, Hands-on Implementation using Moral Machine, Harvard Implicit Association Test, Chat GPT/Open AI
+      </td>
+        <td>
+        The Trolley Problem and Self-Driving Cars, AI in Hiring and Promotion Decisions, The Use of Generative AI and Possibility of Copyright, The Ethical Use of Deepfakes, The Implementation of Universal Basic Income (UBI)
       </td>
         <td>
            Class Discussion/Debate, Paper Writing
