@@ -20,10 +20,10 @@ Faculty members have used the Ethical Reasoning Value Rubric developed by AACU (
 
 ![AACU_ER_ValueRubric_page-0002](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/151f0ce4-09ad-4e8c-b7f2-23c2fe3bea01)
 
-### Acknowledgement
+# Navigating the Repository### Acknowledgement
 This grant is Supported by the Responsible Computing Challenge, a partnership of Omidyar Network, Mozilla, Schmidt Futures, Craig Newmark Philanthropies, Rockefeller Brothers Fund, and Mellon Foundation.
 
-# Navigating the Repository
+
 <table>
   <tbody>
     <tr>
@@ -31,7 +31,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       <th>Course</th>
       <th>Method of Instruction</th>
       <th>Topics Covered</th>
-      <th>AI Ethical Principle Covered</th>
+      <th>Student Assessment Method</th>
     </tr>
      <tr>
       <td><a href="AI in Business Ethics">AI in Business Ethics</a></td>
@@ -39,12 +39,10 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
         Accounting, Economics, and Finance
       </td>
       <td>
-        Case-Study
+        Case-Study, Hands-on Implementation using Moral Machine, Harvard Implicit Association Test, Chat GPT/Open A
       </td>
         <td>
-        Principle of Responsibility, Respect for Autonomy, Principle of Diversity Inclusion, Principle of Democratic Participation, Principle of Equity
-, 
-
+           Class Discussion/Debate, Paper Writing
       </td>
     </tr>
     <tr>
