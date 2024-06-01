@@ -20,9 +20,11 @@ Faculty members have used the Ethical Reasoning Value Rubric developed by AACU (
 
 ![AACU_ER_ValueRubric_page-0002](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/151f0ce4-09ad-4e8c-b7f2-23c2fe3bea01)
 
-# Navigating the Repository### Acknowledgement
+### Acknowledgement
 This grant is Supported by the Responsible Computing Challenge, a partnership of Omidyar Network, Mozilla, Schmidt Futures, Craig Newmark Philanthropies, Rockefeller Brothers Fund, and Mellon Foundation.
 
+
+# Navigating the Repository
 
 <table>
   <tbody>
@@ -94,7 +96,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">ETHICAL USE OF AI FOR ARTISTS</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Ethical Use Of AI For Artists</a></td>
       <td>
        Arts and Visual Studies
       </td>
