@@ -23,7 +23,7 @@ Students will engage in a debate over this topic and will be required to write a
 
 Students will also engage with the Harvard Implicit Association Test to see how we all have subtle biases and begin to think about how those subtle biases the training data that is used.
 
-## Implementation 
+## Implementation and Assessment
 This topic will be covered in two days, within one week. Prior to first class for the week, students are to complete the reading assignments and to come in with a written statement that answers the question: “Is it ethical to use AI in promotion and hiring decisions?” 
 
 During the first class, students are to break up into small groups on each of the three key philosophical questions:
