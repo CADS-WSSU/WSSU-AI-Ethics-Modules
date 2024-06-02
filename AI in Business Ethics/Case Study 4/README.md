@@ -3,11 +3,6 @@ The ethical use of deepfakes: when it is appropriate and when it is not appropri
 
 ## Goals 
 *	To introduce students to the legal and philosophical issues related to deepfakes
-  
-## Key Philosophical Questions
-* Should deepfakes be allowed in movies when actors or the estate of actors provide permission and are compensated?
-* Should deepfakes be allowed in TV advertisements?
-* To what extent do deepfakes erode trust in the information and entertainment industries?
 
 ## Tags 
 * Principle of Well-Being
@@ -18,8 +13,7 @@ The ethical use of deepfakes: when it is appropriate and when it is not appropri
 * Virtue Ethics*
 * Consequentialist Ethics*
 * Deontological Ethics*
-
-
+  
 ## Assigned Readings
 * [Debating the ethics of deepfakes | ORF (orfonline.org)](https://www.orfonline.org/expert-speak/debating-the-ethics-of-deepfakes)
 * [Deepfakes and the Dangers of AI | Deloitte US](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/deepfakes-artificial-intelligence-ethics.html)
@@ -29,9 +23,8 @@ The ethical use of deepfakes: when it is appropriate and when it is not appropri
 * [Rogue One Deepfake Makes Star Wars’ Leia And Grand Moff Tarkin Look Even More Lifelike | Cinemablend](https://www.cinemablend.com/news/2559935/rogue-one-deepfake-makes-star-wars-leia-and-grand-moff-tarkin-look-even-more-lifelike)
 * [Lawmakers push forward on package addressing deepfakes in political ads ⋆ Michigan Advance](https://michiganadvance.com/2023/10/17/lawmakers-push-forward-on-package-addressing-deepfakes-in-political-ads/)
 
-
-## Implementation within a two day a week course
-Prior to the first class for the week, students are to complete the reading assignments and to come in with a written statement that answers the question: “Should deepfakes be allowed in movies when actors or the estate of actors provide permission and are compensated?”
+## Implementation and Assessment
+This topic will be covered in two days, within one week. Prior to the first class for the week, students are to complete the reading assignments and to come in with a written statement that answers the question: “Should deepfakes be allowed in movies when actors or the estate of actors provide permission and are compensated?”
 
 During the first class, students are to break up into small groups on each of the three key philosophical questions:
 * Should deepfakes be allowed in movies when actors or the estate of actors provide permission and are compensated?
