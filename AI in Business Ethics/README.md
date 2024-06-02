@@ -24,8 +24,8 @@ Each case study incorporates all five elements since students cannot evaluate an
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Overview">Overview</a></td>
       <td>
         <ul>
-          <li>Module Overview</li>
-          <li>AI Ethics Principles/guidelines</li>
+          <li>Description</li>
+          <li>AI Ethics Principles/Guidelines</li>
           <li>Learning Outcomes</li>
           <li>Assessment Rubric</li>
         </ul>
