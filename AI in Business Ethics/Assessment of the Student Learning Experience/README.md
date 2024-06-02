@@ -11,5 +11,6 @@ The assessment will focus on the following:
 2. To what degree is the analysis given by the student based on facts that are consistent with the issues that are raised in the case study or question?
 3. To what extent are all of the issues raised in the case study addressed by the student with a cogent argument that is informed by moral and ethical theories?
 
+For this course, all five evaluation criteria of the Ethical Reasoning Value Rubric developed by AACU were utilized. This rubric can be downloaded from [here](https://www.aacu.org/initiatives/value-initiative/value-rubrics/value-rubrics-ethical-reasoning). For convenience, the AACU Value Rubric is also provided below: 
 
-
+![AACU_ER_ValueRubric_page-0002](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/0207043e-0774-4b06-91c5-d63c4d900479)
