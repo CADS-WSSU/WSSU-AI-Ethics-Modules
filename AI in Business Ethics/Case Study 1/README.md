@@ -7,13 +7,7 @@ In this case study, students are put in the position of being executives in an a
 *	Identify the issues from an ethical perspective with attempting to solve the Trolley Problem as well as whether they should be solving this problem
 *	Identify whether full autonomous driving with absolutely no override would violate the Montreal Declaration’s Principle of Responsibility
 * Have students actually test their own ethical beliefs using the Moral Machine from MIT Labs
-
-## Key Philosophical Questions
-* Can self-driving cars be programmed to deal with the trolley problem and, to the degree that they can be, should they be?
-* Who, if anyone, should be held accountable for deaths due to self-driving cars that encounter a Trolley Problem?
-* To what extent should we prioritize getting people into self-driving cars as opposed to how to deal with the Trolley Problem?
-* Is there a fundamental issue with the Montreal Declaration’s Principle of Responsibility with respect to self-driving cars and the Trolley Problem?
-
+  
 ## Tags 
 * Principle of Responsibility from the Montreal Declaration
 * Consequentialist Ethics (both short- and long-term)*
@@ -36,8 +30,8 @@ https://www.moralmachine.net/
 
 Students will engage in a debate on this topic and additionally will write a paper on this topic.
 
-## Implementation within a two day a week course
-Prior to the first class for the week, students are to complete the reading assignments.  They will also come into class with a written statement answering the question, “Is it ethical to use AI to solve the trolley problem?”
+## Implementation and Assessment 
+This topic will be covered in two days, within one week. Prior to the first class for the week, students are to complete the reading assignments.  They will also come into class with a written statement answering the question, “Is it ethical to use AI to solve the trolley problem?”
 
 After handing in their written statements, students are to break up into small groups on each of the three key philosophical questions:
 1.	Can self-driving cars be programmed to deal with the trolley problem and, to the degree that they can be, should they be? (drawing on the readings from the Brookings Institution and Quartz)
