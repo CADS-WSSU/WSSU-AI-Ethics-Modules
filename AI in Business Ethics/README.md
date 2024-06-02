@@ -1,5 +1,5 @@
 > [!NOTE]
-> Full module can be downloaded from [here](https://drive.google.com/file/d/1KQbqf7gCwrAyyBkGQVA6rOd1oU7TmeP6/view?usp=sharing). 
+> Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
 # AI in Business Ethics
 Course Description: “This course examines the ethical dimensions of business and the role ethics plays in sound business decisions and a healthy workplace environment. Various ethical theories and corporate models will be studied. The practical application of ethical theory will be discussed through case study analysis, the study of various corporate ethics codes, and student research on current ethical issues in business.”
 
