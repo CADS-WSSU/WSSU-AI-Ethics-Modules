@@ -36,6 +36,6 @@ The following five learning outcomes are taken from the Responsible AI workshop 
 ## Assessment Rubric
 The student’s work will be assessed using the AAC&U Ethical Reasoning VALUE Rubric available at VALUE Rubrics - [Ethical Reasoning | AAC&U (aacu.org)](https://www.aacu.org/initiatives/value-initiative/value-rubrics/value-rubrics-ethical-reasoning) 
 
-For this course, all five evaluation criteria of the Ethical Reasoning Value Rubric developed by AACU were utilized. For convenience, the AACU Value Rubric is also provided below: 
+For this course, all five evaluation criteria of the ER Value Rubric were utilized. For convenience, the AACU Value Rubric is also provided below: 
 ![AACU_ER_ValueRubric_page-0002](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/322ed828-0bb1-4ea1-aa8e-896bd64a1ebb)
 
