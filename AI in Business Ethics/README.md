@@ -27,6 +27,7 @@ Each case study incorporates all five elements since students cannot evaluate an
           <li>Module Overview</li>
           <li>AI Ethics Principles/guidelines</li>
           <li>Learning Outcomes</li>
+          <li>Assessment Rubric</li>
         </ul>
       </td>
     </tr>
