@@ -5,21 +5,12 @@ This case study examines the ethical issues of using AI in hiring and promotion 
 *	Introduce students to the ethical issues of using AI in hiring and promotion decisions
 *	Have students test for the own subtle biases
   
-## Key Philosophical Questions
-* To what extent can we mitigate the problems of subtle bias in training materials?
-* Is it sufficient to simply include more diversity when it comes to the training materials themselves or is it necessary to check for subtle biases in order to correct for them?
-* What are the ethical issues that using AI can amplify in the hiring process if a concerted effort is not made to address them?
-* Should AI be used in the hiring and promotion process?
-* If AI is used, how can we address the Montreal Declaration’s Respect for Autonomy, Principle of Diversity Inclusion, Principle of Democratic Participation, and Principle of Equity while upholding Virtue Ethics?
-
-
 ## Tags 
 * Respect for Autonomy
 * Principle of Diversity Inclusion
 * Principle of Democratic Participation
 * Principle of Equity
 * Virtue Ethics*
-
 
 ## Assigned Readings
 * [How is AI is being used in the hiring process? | World Economic Forum (weforum.org)](https://www.weforum.org/agenda/2022/12/ai-hiring-tackle-algorithms-employment-job/)
@@ -32,8 +23,8 @@ Students will engage in a debate over this topic and will be required to write a
 
 Students will also engage with the Harvard Implicit Association Test to see how we all have subtle biases and begin to think about how those subtle biases the training data that is used.
 
-## Implementation within a two day a week course
-Prior to first class for the week, students are to complete the reading assignments and to come in with a written statement that answers the question: “Is it ethical to use AI in promotion and hiring decisions?” 
+## Implementation 
+This topic will be covered in two days, within one week. Prior to first class for the week, students are to complete the reading assignments and to come in with a written statement that answers the question: “Is it ethical to use AI in promotion and hiring decisions?” 
 
 During the first class, students are to break up into small groups on each of the three key philosophical questions:
 * To what extent can we mitigate the problems of subtle bias in training materials?
