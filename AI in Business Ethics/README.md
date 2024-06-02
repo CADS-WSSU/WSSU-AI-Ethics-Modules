@@ -1,5 +1,5 @@
 > [!NOTE]
-> Full module can be downloaded from [here](https://drive.google.com/file/d/1XVbj04_j2b49-tNwXNyGlcT-yGu8LV0Z/view?usp=sharing). 
+> Full module can be downloaded from [here](https://drive.google.com/file/d/1KQbqf7gCwrAyyBkGQVA6rOd1oU7TmeP6/view?usp=sharing). 
 # AI in Business Ethics
 Course Description: “This course examines the ethical dimensions of business and the role ethics plays in sound business decisions and a healthy workplace environment. Various ethical theories and corporate models will be studied. The practical application of ethical theory will be discussed through case study analysis, the study of various corporate ethics codes, and student research on current ethical issues in business.”
 
