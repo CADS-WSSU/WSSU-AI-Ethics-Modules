@@ -4,11 +4,6 @@ The use of generative AI and the possibility of copyright, patent, and trademark
 ## Goals 
 *	To introduce students to the legal and philosophical issues related to training sets for generative AI as well as whether these training sets qualify as “fair use” under the copyright act when the training material is copyrighted
   
-## Key Philosophical Questions
-* Should copyrighted, patented, or trademarked works be used to train generative AI?
-* Should generative AI be used even if those works are creative commons works?
-* Does generative AI qualify as “fair use” under the copyright act when the material is material is copyrighted?
-
 ## Tags 
 * Principle of Well-Being
 * Principle of Solidarity
@@ -24,8 +19,8 @@ The use of generative AI and the possibility of copyright, patent, and trademark
 * [Making music with AI? Start with these ethical guidelines - Water & Music (waterandmusic.com)](https://www.waterandmusic.com/making-music-with-ai-start-with-these-ethical-guidelines/)
 
 
-## Implementation within a two day a week course
-Prior to the first class for the week, students are to complete the reading assignments and to come in with a written statement that answers the question: “Should copyrighted, patented, or trademarked works be used to train generative AI?”
+## Implementation and Assessment
+This topic will be covered in two days, within one week. Prior to the first class for the week, students are to complete the reading assignments and to come in with a written statement that answers the question: “Should copyrighted, patented, or trademarked works be used to train generative AI?”
 
 During the first class, students are to break up into small groups on each of the three key philosophical questions:
 * Should copyrighted, patented, or trademarked works be used to train generative AI?
