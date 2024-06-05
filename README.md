@@ -50,6 +50,21 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
            Class Discussion/Debate, Paper Writing
       </td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Responsible and Ethical Use of AI in Biomechanics</a></td>
+      <td>
+        Exercise Physiology
+      </td>
+      <td>
+        Hands-on Implementation using ChatGPT
+      </td>
+        <td>
+            Linear Kinematics, Angular Kinematics, Linear Kinetics, Angular Kinetics, Gait Recognition
+      </td>
+        <td>
+        Written Discussion, Class Discussion, Quiz 
+      </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main">AI Ethics Module in Elementary Statistics</a></td>
       <td>
@@ -81,15 +96,6 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module-main">Foreign Language Studies: World Film</a></td>
       <td>
         World Languages and Cultures
-      </td>
-      <td>
-        Hands-on
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Responsible and Ethical Use of AI in Biomechanics</a></td>
-      <td>
-        Exercise Physiology
       </td>
       <td>
         Hands-on
