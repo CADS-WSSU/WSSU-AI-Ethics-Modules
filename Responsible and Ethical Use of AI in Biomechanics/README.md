@@ -89,6 +89,6 @@ Course Description: This course is designed to address the science of human move
 
 ## Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Dr. Zagros Madjd-Sadjadi, Instructor of this module and Full Professor of Economics & Chair of the Department of Accounting, Economics, and Finance
-at Winston-Salem State University](mailto:sadjadizm@wssu.edu)
+* [Dr. Michael Jarrett, Instructor of this module and Assistant Professor of Department of Exercise Physiology
+at Winston-Salem State University](mailto:jarrettms@wssu.edu)
 * [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
