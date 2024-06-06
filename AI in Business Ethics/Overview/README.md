@@ -29,7 +29,7 @@ The following five learning outcomes are taken from the Responsible AI workshop 
 
 * The student will analyze the fundamental principles that consciously or unconsciously influence one’s ethical conduct and ethical thinking to be assessed through written assignments that require the student to discuss these fundamental principles in analyzing at least one of the case studies
 * Student will understand the different AI ethical principles and concepts as well as understand the Montreal Framework and name/explain several of its key principles to be assessed through written assignments that require the student to discuss these in the context of the problem under consideration
-* Student will recognize ethical issues when presented in the form of a case study and recognize cross-relationships among the issues to be assessed through a debate
+* Students will recognize ethical issues when presented in the form of a case study and recognize cross-relationships among the issues to be assessed through a debate
 * Student will apply ethical perspectives/concepts independently to an ethical question to be assessed through a debate
 * Student will evaluate different AI ethical perspectives by stating a position regarding an ethical problem and reasonably defend his or her position through a debate Each case study incorporates all five elements since students cannot evaluate an ethical problem and provide a position without applying, recognizing, understanding, and analyzing in accordance with each of the other learning goals.
 
@@ -37,5 +37,6 @@ The following five learning outcomes are taken from the Responsible AI workshop 
 The student’s work will be assessed using the AAC&U Ethical Reasoning VALUE Rubric available at VALUE Rubrics - [Ethical Reasoning | AAC&U (aacu.org)](https://www.aacu.org/initiatives/value-initiative/value-rubrics/value-rubrics-ethical-reasoning) 
 
 For this course, all five evaluation criteria of the ER Value Rubric were utilized. For convenience, the AACU Value Rubric is also provided below: 
+
 ![AACU_ER_ValueRubric_page-0002](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/322ed828-0bb1-4ea1-aa8e-896bd64a1ebb)
 
