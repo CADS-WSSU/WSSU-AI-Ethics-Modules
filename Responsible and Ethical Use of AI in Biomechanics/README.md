@@ -21,10 +21,20 @@ Course Description: This course is designed to address the science of human move
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Overview">Overview</a></td>
       <td>
         <ul>
-          <li>Description</li>
-          <li>AI Ethics Principles/Guidelines</li>
-          <li>Learning Outcomes</li>
+          <li>Introduction</li>
+          <li>Student Learning Outcomes (SLO)</li>
+          <li>Outline</li>
           <li>Assessment Rubric</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Overview">Introduction to AI Module</a></td>
+      <td>
+        <ul>
+          <li>What is AI and what is it capable of?</li>
+          <li>The Montreal Declaration on Responsible AI</li>
+          <li>How to use ChatGPT 3.5 for this course</li>
         </ul>
       </td>
     </tr>
@@ -40,7 +50,6 @@ Course Description: This course is designed to address the science of human move
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%202">Course Work Integration Module #2: Angular Kinematics</a></li>
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%203">Course work Integration Module #3: Linear Kinetics</a></li>
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%204">Course Work Integration Module #4: Angular Kinetics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%205">Group Project on Societal Level Situations Module: Gait Recognition</a></li>
         </ul>
       </td>
       <td>
