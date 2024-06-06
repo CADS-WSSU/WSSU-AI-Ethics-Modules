@@ -18,7 +18,7 @@ Course Description: This course is designed to address the science of human move
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Overview">Overview</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview">Overview</a></td>
       <td>
         <ul>
           <li>Introduction</li>
@@ -29,7 +29,7 @@ Course Description: This course is designed to address the science of human move
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Overview">Introduction to AI Module</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Module">Introduction to AI Module</a></td>
       <td>
         <ul>
           <li>What is AI and what is it capable of?</li>
