@@ -3,7 +3,7 @@
 # Responsible and Ethical Use of AI in Biomechanics
 Course Description: This course is designed to address the science of human movement involving laws and principles governing force, motion, and equilibrium which is inherent to the anatomy and physiology of the muscular, skeletal, and neural systems of the human body. Furthermore, this course is intended to be a comprehensive examination of forces and the effects with specific applications to the human body in movement and at rest. Prerequisite: EXS 3411 Function Anatomy
 
-## Learning Outcomes
+## Student Learning Outcomes (SLO)
 
 * Students will present a basic understanding of the current capacity of AI technology in the field of biomechanics.
 * Students will recognize the ethical implications of using AI at an individual level for academic work and in societal applications.
