@@ -81,16 +81,8 @@ Course Description: This course is designed to address the science of human move
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Assessment%20of%20the%20Student%20Learning%20Experience">Assessment of the Student Learning Experience</a></td>
-      <td>
-      </td>
-    </tr>
-    <tr>
       <td><a href="">Student Work Examples</a></td>
       <td>
-        <ul>
-          <li>Student Project Submissions</li>
-        </ul>
       </td>
     </tr>
   </tbody>
