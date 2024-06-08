@@ -1,7 +1,7 @@
 ## Introduction
 This module provides easily integrable course material that exposes students to the ethical and responsible usage of artificial intelligence (AI) in the realm of biomechanics.  As AI can be viewed as an academic tool, the aim of this module is to present the current capacities of AI, provide multiple hands-on experiences with AI usage on an individual level, and offer a structured environment for the contemplation of societal level usage of AI through student-led presentations.  To accomplish these aims with minimal course adjustments, the module requires two full course meetings, once at the beginning of the semester for content introduction and one near the end of the semester for group discussion on societal level situations.  Embedded ancillary assessments into existing course assignments are used throughout the semester to provide ample interactions with AI and reinforce the need to utilize an ethical framework to determine responsible usage. 
 
-## Student Learning Outcomes (SLO)
+## Learning Outcomes
 * Students will present a basic understanding of the current capacity of AI technology in the field of biomechanics.
 * Students will recognize the ethical implications of using AI at an individual level for academic work and in societal applications.
 * Students will effectively use open-source generative AI (ChatGPT 3.5) in an ethical and responsible manner to evaluate coursework and provide accurate practice problems for course topics.
