@@ -3,7 +3,7 @@
 # Responsible and Ethical Use of AI in Biomechanics
 Course Description: This course is designed to address the science of human movement involving laws and principles governing force, motion, and equilibrium which is inherent to the anatomy and physiology of the muscular, skeletal, and neural systems of the human body. Furthermore, this course is intended to be a comprehensive examination of forces and the effects with specific applications to the human body in movement and at rest. Prerequisite: EXS 3411 Function Anatomy
 
-## Student Learning Outcomes (SLO)
+## Learning Outcomes
 
 * Students will present a basic understanding of the current capacity of AI technology in the field of biomechanics.
 * Students will recognize the ethical implications of using AI at an individual level for academic work and in societal applications.
@@ -22,7 +22,7 @@ Course Description: This course is designed to address the science of human move
       <td>
         <ul>
           <li>Introduction</li>
-          <li>Student Learning Outcomes (SLO)</li>
+          <li>Learning Outcomes </li>
           <li>Outline</li>
           <li>Assessment Rubric</li>
         </ul>
@@ -65,7 +65,7 @@ Course Description: This course is designed to address the science of human move
   <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%205">Group Project on Societal Level Situations Module: Gait Recognition</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Societal%20Level%20Situations%20Module:%20Gait%20Recognition">Group Project on Societal Level Situations Module: Gait Recognition</a></li>
         </ul>
       </td>
       <td>
