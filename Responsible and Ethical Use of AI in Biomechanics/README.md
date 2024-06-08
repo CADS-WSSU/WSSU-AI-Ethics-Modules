@@ -39,17 +39,17 @@ Course Description: This course is designed to address the science of human move
       </td>
     </tr>
      <tr>
-      <td> Course Work Integration Modules:</a></td>
+      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Modules">Course Work Integration Modules</a></td>
       <td>
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%201">Course Work Integration Module #1: Linear Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%202">Course Work Integration Module #2: Angular Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%203">Course work Integration Module #3: Linear Kinetics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%204">Course Work Integration Module #4: Angular Kinetics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%231%3A%20Linear%20Kinematics">Course Work Integration Module #1: Linear Kinematics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%232:%20Angular%20Kinematics">Course Work Integration Module #2: Angular Kinematics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20work%20Integration%20Module%20%233:%20Linear%20Kinetics">Course work Integration Module #3: Linear Kinetics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%234:%20Angular%20Kinetics">Course Work Integration Module #4: Angular Kinetics</a></li>
         </ul>
       </td>
       <td>
