@@ -51,7 +51,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
      <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Responsible and Ethical Use of AI in Biomechanics</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics">Responsible and Ethical Use of AI in Biomechanics</a></td>
       <td>
         Exercise Physiology
       </td>
