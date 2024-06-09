@@ -24,13 +24,15 @@ The students will need a solid grasp of what these principles in tell as they wi
 ## How to use ChatGPT 3.5 for this course.
 Throughout the semester, the students will be required to use ChatGPT in various ways in conjunction with their regularly assigned coursework. Before this can happen, the students will need to create a free Chat GPT account using their school email address.  At this point in the lecture, the students should have their laptops and/or tablets out with the ChatGPT website open.  The students should be instructed to click the “sign up” link and follow the on-screen instructions to create an account.  Once complete and logged in, the remainder of the lecture time will be used to acquaint the students with the latest free version of ChatGPT (version 3.5 at the time of print). Specific attention should be given to how to type in a message, find recent or previous chats, and how to export/download chat files as the students will need to provide such output through the semester.  The images below outline how to find the export function.  **NOTE:** the students will need to make sure to select the “share your name” option to identify their work.
 
-![Picture1](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/4b4b9cb0-9fb8-4067-8f6a-e79fcffbd809)
 
-*Figure 1 Finding the Share Link Feature*
+![Picture1](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/8f7973d3-1c4d-4edc-b5ff-85abbedd20a8)
 
-![Picture3](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/cc15236b-3384-47db-a379-0e79e8aa558d)
+*Figure 1 Finding the Share Link Feature* [[Source](https://www.pcmag.com/how-to/manage-chatgpt-how-to-share-export-delete-conversations)]
 
-*Figure 2 Enable the "Share Your Name" Feature*
+
+![Picture2](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/d38f550f-0a89-4fea-b849-7530be594fad) 
+
+*Figure 2 Enable the "Share Your Name" Feature* [[Source](https://www.pcmag.com/how-to/manage-chatgpt-how-to-share-export-delete-conversations)]
 
 Once enabled, the share link can be distributed or submitted with assignments similarly to the link below.
 https://chat.openai.com/share/355de5e8-ef6d-4066-9467-e236050e4dd5 
