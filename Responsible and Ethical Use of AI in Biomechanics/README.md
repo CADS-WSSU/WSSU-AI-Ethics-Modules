@@ -10,7 +10,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
 * Students will effectively use open-source generative AI (ChatGPT 3.5) in an ethical and responsible manner to evaluate coursework and provide accurate practice problems for course topics.
 * Students will critically evaluate the use of AI in individual and societal level situations to determine ethical and responsible usage via an established ethical framework.
 
-## Navigating the Repository
+## Navigating the Module
 <table>
   <tbody>
     <tr>
