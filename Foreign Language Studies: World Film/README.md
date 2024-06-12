@@ -21,6 +21,7 @@
         <ul>
           <li>Learning Outcomes </li>
           <li>Course Plan</li>
+          <li>AI Ethics Principles/guidelines</li>
           <li>Assessment Rubric</li>
         </ul>
       </td>
@@ -53,6 +54,6 @@
 
 ## Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Dr. Michael Jarrett, Instructor of this module and Assistant Professor of Department of Exercise Physiology
-at Winston-Salem State University](mailto:jarrettms@wssu.edu)
+* [Dr. Jeanine Luciana Lino Silva Couto, Visiting Assistant Professor of the Department World Languages and Cultures
+at Winston-Salem State University](mailto:coutojl@wssu.edu)
 * [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
