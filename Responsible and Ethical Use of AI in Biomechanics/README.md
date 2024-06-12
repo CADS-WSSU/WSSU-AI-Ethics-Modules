@@ -18,7 +18,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview">Overview of This Module</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview">Overview</a></td>
       <td>
         <ul>
           <li>Module Description</li>
