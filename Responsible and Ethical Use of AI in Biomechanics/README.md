@@ -14,11 +14,11 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
 <table>
   <tbody>
     <tr>
-      <th>Folders In Repository</th>
-      <th>Information In Each Folder</th>
+      <th>File/Folder In Repository</th>
+      <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview">Overview</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview">Overview of This Module</a></td>
       <td>
         <ul>
           <li>Module Description</li>
@@ -29,7 +29,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Module">Introduction to AI </a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Module">Introduction to AI Handout</a></td>
       <td>
         <ul>
           <li>What is AI and what is it capable of?</li>
@@ -39,17 +39,17 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       </td>
     </tr>
      <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Modules">Course Work Integration Components</a></td>
+      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Modules">Assignments</a></td>
       <td>
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%231%3A%20Linear%20Kinematics">Course Work Integration #1: Linear Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%232:%20Angular%20Kinematics">Course Work Integration #2: Angular Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20work%20Integration%20Module%20%233:%20Linear%20Kinetics">Course work Integration #3: Linear Kinetics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%234:%20Angular%20Kinetics">Course Work Integration #4: Angular Kinetics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%231%3A%20Linear%20Kinematics">Assignment #1: Linear Kinematics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%232:%20Angular%20Kinematics">Assignment #2: Angular Kinematics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20work%20Integration%20Module%20%233:%20Linear%20Kinetics">Assignment #3: Linear Kinetics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Module%20%234:%20Angular%20Kinetics">Assignment #4: Angular Kinetics</a></li>
         </ul>
       </td>
       <td>
@@ -65,7 +65,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
   <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Societal%20Level%20Situations%20Module:%20Gait%20Recognition">Group Project on Societal Level Situations Module: Gait Recognition</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Societal%20Level%20Situations%20Module:%20Gait%20Recognition">Project: Gait Recognition</a></li>
         </ul>
       </td>
       <td>
