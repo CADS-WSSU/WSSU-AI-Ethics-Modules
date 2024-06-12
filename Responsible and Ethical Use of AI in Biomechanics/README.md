@@ -1,7 +1,7 @@
 > [!NOTE]
 > Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
 # Responsible and Ethical Use of AI in Biomechanics
-Course Description: This course is designed to address the science of human movement involving laws and principles governing force, motion, and equilibrium which is inherent to the anatomy and physiology of the muscular, skeletal, and neural systems of the human body. Furthermore, this course is intended to be a comprehensive examination of forces and the effects with specific applications to the human body in movement and at rest. Prerequisite: EXS 3411 Function Anatomy
+This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 3315 Biomechanics, offered by the Department of Exercise Physiology, reviews basic physics concepts and how they apply to general human movement and sports applications. This course is primarily taken by Exercise Physiology juniors and seniors and secondarily by students from the Department of Health, Physical Education, and Sports Studies. 
 
 ## Learning Outcomes
 
