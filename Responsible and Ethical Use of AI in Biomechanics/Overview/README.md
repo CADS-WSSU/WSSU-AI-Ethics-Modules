@@ -7,11 +7,11 @@ This module provides easily integrable course material that exposes students to 
 * Students will effectively use open-source generative AI (ChatGPT 3.5) in an ethical and responsible manner to evaluate coursework and provide accurate practice problems for course topics.
 * Students will critically evaluate the use of AI in individual and societal level situations to determine ethical and responsible usage via an established ethical framework.
 
-## Outline 
-### Pre-Module Assessment: 
+## Outline of the Module
+### Pre-Module Assessment (Week 1)
 The students will complete a Responsible AI literacy quiz to gauge their understanding of AI, ethical frameworks, and situational awareness/ethical implications of the usage of AI.  Additionally, the students will complete a survey on their comfort level discussing AI and the ethical implications of its usage in society.
-### Course Week 1 or 2: 
-Introduction to AI Module: This module provides basic information on the status of AI technology and hands-on experience with a large language model (LLM) program (ChatGPT 3.5) that will be used throughout the semester.
+### Introduction to AI (Week 1 or 2): 
+This component provides basic information on the status of AI technology and hands-on experience with a large language model (LLM) program (ChatGPT 3.5) that will be used throughout the semester.
 ### Course Weeks 3-12: 
 Course Work Integration: These 4 modules provide details on how to integrate hands-on experiences with an LLM through various topics biomechanics increasing linear and angular kinematics and kinetics.  Each module outlines an Ancillary AI Assessment (AAA) that will require the students to integrate AI usage into their assignment and reflect on the ethical implications of each task.
 ### Course Weeks 13-14: 
