@@ -1,8 +1,5 @@
-Class discussion of article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence." Scene analysis in class. 
-### Question for the discussion board
-Prompt for the discussion board: State your position regarding an ethical problem in My Holo Love and reasonably defend your position. 
-1. What are the threats of artificial intelligence in the series My Holo Love? Specifically, how does Holo violate the Montreal Declaration and/or UNESCO Recommendation on the Ethics of Artificial Intelligence?
-2. What threats are most serious? How might they be combated?
-3. How do they compare to the potential benefits?
+* Class discussion of article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence." 
+* Scene analysis in class.
 
-Respond to two classmates in 100 words each response.
+###Assigned Reading
+* [“Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence"](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Virtual_Technology_in_Netflix%20My%20Solo%20Love.PDF)
