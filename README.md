@@ -16,12 +16,12 @@ AI ethics involves guiding principles for the responsible use of artificial inte
   i) Proportionality and Do No Harm  ii) Safety and Security iii) Right to Privacy and Data Protection iv) Multi-stakeholder and Adaptive Governance & Collaboration v) Responsibility and Accountability vi) Transparency and Explainability vii) Human Oversight and Determination viii) Sustainability ix) Awareness & Literacy x) Fairness and Non-Discrimination
 
 ### Rubric and Assessment
-Faculty members have used the Ethical Reasoning Value Rubric developed by AACU (The American Association of Colleges and Universities) to assess students. This rubric consists of 5 evaluation criteria that will be used to grade students. Faculty members had the option to choose any combination of criteria or use all of them for evaluation. The AACU ER Value Rubric is presented below: 
+Faculty members have used the Ethical Reasoning Value Rubric developed by AACU (The American Association of Colleges and Universities) to assess students. This rubric consists of 5 evaluation criteria that will be used to grade students. Faculty members had the option to choose any combination of criteria or use all of them for evaluation. The AACU ER Value Rubric can be found [here](https://www.aacu.org/initiatives/value-initiative/value-rubrics/value-rubrics-ethical-reasoning). For convenience, the rubric is also presented below: 
 
 ![AACU_ER_ValueRubric_page-0002](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/151f0ce4-09ad-4e8c-b7f2-23c2fe3bea01)
 
 ### News Article 
-WSSU received a Responsible Computing Challenge Grant Award from the Mozilla Foundation for the project, said Dr. Debzani Deb, the project’s principal investigator, RJ Reynolds endowed professor of computer science, and founding director of WSSU’s Center for Applied Data Science (CADS). The award is administered by CADS, which is leading the effort of integrating active learning course modules on responsible and ethical AI into seven interdisciplinary courses at WSSU during the spring 2024 semester. 
+WSSU received a Responsible Computing Challenge Grant Award from the Mozilla Foundation for the project, said Dr. Debzani Deb, the project’s principal investigator, RJ Reynolds endowed professor of computer science, and founding director of WSSU’s Center for Applied Data Science (CADS). The award is administered by CADS, which is leading the effort of integrating active learning course modules on responsible and ethical AI into seven interdisciplinary courses at WSSU during the spring 2024 semester. [Article Link](https://www.wssu.edu/about/news/articles/2024/02/wssu-receives-grant-to-teach-students-how-to-use-artificial-intelligence-responsibly-and-ethically.html)
 
 ![ai-faculty-group-lg](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/assets/72575247/5e2d0f80-db4d-4ff1-a23c-2b0f55e60020)
 
