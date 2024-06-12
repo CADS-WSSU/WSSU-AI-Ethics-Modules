@@ -1,6 +1,6 @@
-## Course Work Integration #1: Linear Kinematics
+## Assignment #1: Linear Kinematics
 ### Description
-During the course section on linear kinematics, the students are given multiple mathematical-based questions concerning distance, displacement, speed, and velocity.  Examples of the questions are provided below.  Students are instructed to solve the questions on their own, showing all their computational work.
+During the course section on linear kinematics, the students are given multiple mathematical-based questions concerning distance, displacement, speed, and velocity.  Examples of the questions are provided below.  First, students are instructed to solve the questions on their own, showing all their computational work.
 ### Example Questions
 Example of linear kinematics questions:
 1.	A tennis ball leaves a racket during the execution of a perfectly horizontal ground stroke with a speed of 27 m/s. If the ball is in the air for 0.8 seconds, what horizontal distance does it travel?
@@ -14,7 +14,7 @@ Example of linear kinematics questions:
 
 
 ### Ancillary AI Assessment (AAA)
-The students will copy and paste each question in ChatGPT and request the program to create practice problems that solve for similar variables using their own verbiage.  The students will instruct ChatGPT to only provide the question without the answer.  The students will submit the completed chat file/link along with a written discussion on the following questions.
+The students are then instructed to copy and paste each question in ChatGPT and request the program to create practice problems that solve for similar variables using their own verbiage.  The students will instruct ChatGPT to only provide the question without the answer.  The students will submit the completed chat file/link along with a written discussion on the following questions.
 * Did ChatGPT accurately create similar word problems to the ones provided?
 * Are you able to solve the problems based on the concepts that we have covered in class?
 * Did you violate any course policies in using ChatGPT to help you study in this manner?
