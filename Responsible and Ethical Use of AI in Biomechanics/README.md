@@ -29,7 +29,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Module">Introduction to AI Module</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Module">Introduction to AI </a></td>
       <td>
         <ul>
           <li>What is AI and what is it capable of?</li>
@@ -39,7 +39,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       </td>
     </tr>
      <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Modules">Course Work Integration Modules</a></td>
+      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Course%20Work%20Integration%20Modules">Course Work Integration Components</a></td>
       <td>
       </td>
     </tr>
