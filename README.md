@@ -105,6 +105,13 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       <td>
         Hands-on
       </td>
+       <td>
+            Study of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI, Movie What Happened to Monday? Discussion on A.I. and Ethics, “Virtual Technology in Netflix K-Drama: Augmented
+Reality, Hologram, and Artificial Intelligence."
+      </td>
+        <td>
+       Discussion Board, Assignemnt
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Ethical Use Of AI For Artists</a></td>
