@@ -1,11 +1,11 @@
 > [!NOTE]
 > Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
 # Responsible and Ethical Use of AI in Biomechanics
-This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 3315 Biomechanics, offered by the Department of Exercise Physiology, reviews basic physics concepts and how they apply to general human movement and sports applications. This course is primarily taken by Exercise Physiology juniors and seniors and secondarily by students from the Department of Health, Physical Education, and Sports Studies. 
+This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 3315 Biomechanics, offered by the Department of Exercise Physiology, reviews basic physics concepts and how they apply to general human movement and sports applications. This course is primarily taken by Exercise Physiology juniors and seniors and secondarily by students from the Department of Health, Physical Education, and Sports Studies. This module intends to familiarize students with the application of AI technologies in the field of Biomechanics from the academic and societal perspectives and to teach them how to recognize and evaluate critical issues that may arise from the usage of AI technologies in such field.  
 
 ## Learning Outcomes of this Module
 
-* Students will present a basic understanding of the current capacity of AI technology in the field of biomechanics.
+* Students will gain a basic understanding of the current capacity of AI technology in the field of biomechanics.
 * Students will recognize the ethical implications of using AI at an individual level for academic work and in societal applications.
 * Students will effectively use open-source generative AI (ChatGPT 3.5) in an ethical and responsible manner to evaluate coursework and provide accurate practice problems for course topics.
 * Students will critically evaluate the use of AI in individual and societal level situations to determine ethical and responsible usage via an established ethical framework.
