@@ -39,7 +39,6 @@
         <ul>
           <li>Description</li>
           <li>Question for the discussion board</li>
-          <li>Tags</li>
           <li>Assigned Readings</li>
         </ul>
       </td>
