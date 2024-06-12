@@ -1,4 +1,4 @@
-## Course Work Integration Module #1: Linear Kinematics
+## Course Work Integration #1: Linear Kinematics
 ### Description
 During the course section on linear kinematics, the students are given multiple mathematical-based questions concerning distance, displacement, speed, and velocity.  Examples of the questions are provided below.  Students are instructed to solve the questions on their own, showing all their computational work.
 ### Example Questions
