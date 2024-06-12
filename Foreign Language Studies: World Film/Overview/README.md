@@ -103,6 +103,27 @@ beings when decisions must be made.
 10. Sustainable Development
 The development and use of AIS must be carried out to ensure a strong environmental
 sustainability of the planet.
+## Preliminary Bibliography
+Primary: 
+ 
+My Holo Love. Dir. Sang-yeop, Lee and Yoon Jong-Ho. Netflix. Studio Dragon. South Korea, 2020. 
+ 
+What Happened to Monday? Dir. Tommy Wirkola. Netflix. 2017. 
+ 
+ 
+ 
+Secondary: 
+
+The MontréAl Declaration for a Responsible Development of Artificial Intelligence Foreword Principles Consult the Glossary of the Declaration, montrealdeclaration-responsibleai.com/the-declaration/. Accessed 3 Dec. 2023.
+ 
+Nielsen, Esben B., and Gregers Andersen. "The Cruel Optimism of Anthropocene Technologies: Suspicion and Fascination of Technology in Okja, what Happened to Monday, and Geostorm." Journal of Popular Culture, vol. 55, no. 4, 2022, pp. 735-754. 
+ 
+Park, Jinhee. "Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence." International Journal of Communication (Online), vol. 17, 2023, pp. 130. 
+ 
+"Recommendations on the Ethics of Artificial Intelligence." 23 Nov. 2021, unesdoc.unesco.org/ark:/48223/pf0000381137. Accessed 3 Dec. 2023.
+
+Russell, Stuart J. and Peter Norvig. Artificial Intelligence: A Modern Approach. 4th. Edition. Englewood Cliffs, N.J., Prentice Hall, 2021. 
+
 
 ## Assessment Rubric
 The student’s work will be assessed using the AAC&U Ethical Reasoning VALUE Rubric available at VALUE Rubrics - [Ethical Reasoning | AAC&U (aacu.org)](https://www.aacu.org/initiatives/value-initiative/value-rubrics/value-rubrics-ethical-reasoning) 
