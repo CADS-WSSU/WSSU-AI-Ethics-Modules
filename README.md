@@ -98,7 +98,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module-main">Foreign Language Studies: World Film</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies%3A%20World%20Film">Foreign Language Studies: World Film</a></td>
       <td>
         World Languages and Cultures
       </td>
