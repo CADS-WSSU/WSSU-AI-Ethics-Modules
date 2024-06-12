@@ -22,6 +22,7 @@
           <li>Learning Outcomes </li>
           <li>Course Plan</li>
           <li>AI Ethics Principles/guidelines</li>
+          <li>Preliminary Bibliography</li>
           <li>Assessment Rubric</li>
         </ul>
       </td>
