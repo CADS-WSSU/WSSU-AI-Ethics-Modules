@@ -64,9 +64,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
     </tr>
   <tr>
       <td>
-        <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Societal%20Level%20Situations%20Module:%20Gait%20Recognition">Project: Gait Recognition</a></li>
-        </ul>
+          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Societal%20Level%20Situations%20Module:%20Gait%20Recognition">Project: Gait Recognition</a>  
       </td>
       <td>
         <ul>
