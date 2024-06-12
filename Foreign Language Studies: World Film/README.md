@@ -28,12 +28,32 @@
       </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Overview">Class Discussions</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%231:%20Study%20of%20Russell%20and%20Norvig%E2%80%99s%20chapter%20on%20Philosophy,%20Ethics,%20and%20Safety%20of%20AI">Module #1: Study of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%232:%20Movie%20What%20Happened%20to%20Monday%3F%20Class%20discussion%20on%20A.I.%20and%20Ethics">Module #2: Movie What Happened to Monday? Class discussion on A.I. and Ethics</a></li>
-           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%233:%20Analyzing%20the%20K-Pop%20series%20%22My%20Holo%20Love%22">Module #3: Analyzing the K-Pop series "My Holo Love"</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%234:%20Class%20discussion%20of%20article%20%E2%80%9CVirtual%20Technology%20in%20Netflix%20K-Drama:%20Augmented%20Reality,%20Hologram,%20and%20Artificial%20Intelligence%22">Module #4: Class discussion of article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence"</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%231:%20Study%20of%20Russell%20and%20Norvig%E2%80%99s%20chapter%20on%20Philosophy,%20Ethics,%20and%20Safety%20of%20AI">Discussion #1: Study of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%234:%20Class%20discussion%20of%20article%20%E2%80%9CVirtual%20Technology%20in%20Netflix%20K-Drama:%20Augmented%20Reality,%20Hologram,%20and%20Artificial%20Intelligence%22">Discussion #2: Class discussion of article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence"</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-Class Activity</li>
+          <li>Assigned Readings</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Overview">Assignments</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%232:%20Movie%20What%20Happened%20to%20Monday%3F%20Class%20discussion%20on%20A.I.%20and%20Ethics">Assignment #1: Movie What Happened to Monday? Class discussion on A.I. and Ethics</a></li>
+           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Module%20%233:%20Analyzing%20the%20K-Pop%20series%20%22My%20Holo%20Love%22">Assignment #2: Analyzing the K-Pop series "My Holo Love"</a></li>
         </ul>
       </td>
       <td>
