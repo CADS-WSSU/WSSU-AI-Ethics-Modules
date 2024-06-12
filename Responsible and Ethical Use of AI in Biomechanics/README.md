@@ -3,7 +3,7 @@
 # Responsible and Ethical Use of AI in Biomechanics
 This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 3315 Biomechanics, offered by the Department of Exercise Physiology, reviews basic physics concepts and how they apply to general human movement and sports applications. This course is primarily taken by Exercise Physiology juniors and seniors and secondarily by students from the Department of Health, Physical Education, and Sports Studies. 
 
-## Learning Outcomes
+## Learning Outcomes of this Module
 
 * Students will present a basic understanding of the current capacity of AI technology in the field of biomechanics.
 * Students will recognize the ethical implications of using AI at an individual level for academic work and in societal applications.
