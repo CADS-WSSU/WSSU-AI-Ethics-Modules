@@ -32,6 +32,78 @@ each response.
 
 * Class discussion of article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence."
 
+### AI Ethics Principles/guidelines
+UNESCO (https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
+
+Ten core principles lay out a human-rights centered approach to the Ethics of AI.
+1. Proportionality and Do No Harm
+The use of AI systems must not go beyond what is necessary to achieve a legitimate
+aim. Risk assessment should be used to prevent harms which may result from such uses.
+2. Safety and Security
+Unwanted harms (safety risks) as well as vulnerabilities to attack (security risks) should
+be avoided and addressed by AI actors.
+3. Right to Privacy and Data Protection
+Privacy must be protected and promoted throughout the AI lifecycle. Adequate data
+protection
+frameworks should also be established.
+4. Multi-stakeholder and Adaptive Governance & Collaboration
+International law & national sovereignty must be respected in the use of data.
+Additionally, participation of diverse stakeholders is necessary for inclusive approaches
+to AI governance.
+5. Responsibility and Accountability
+AI systems should be auditable and traceable. There should be oversight, impact
+assessment, audit and due diligence mechanisms in place to avoid conflicts with human
+rights norms and threats to environmental wellbeing.
+6. Transparency and Explainability
+The ethical deployment of AI systems depends on their transparency & explainability
+(T&E). The level of T&E should be appropriate to the context, as there may be tensions
+between T&E and other principles such as privacy, safety, and security.
+7. Human Oversight and Determination
+Member States should ensure that AI systems do not displace ultimate human
+responsibility and accountability.
+8. Sustainability
+AI technologies should be assessed against their impacts on ‘sustainability’, understood
+as a set of constantly evolving goals including those set out in the UN’s Sustainable
+Development Goals.
+9. Awareness & Literacy
+Public understanding of AI and data should be promoted through open & accessible
+education, civic engagement, digital skills & AI ethics training, media & information
+literacy.
+10. Fairness and Non-Discrimination
+AI actors should promote social justice, fairness, and non-discrimination while taking
+an inclusive approach to ensure AI’s benefits are accessible to all.
+
+Montreal (https://montrealdeclaration-responsibleai.com/the-declaration/)
+1. Well-being
+The development and use of artificial intelligence systems (AIS) must permit the growth of the
+well-being of all sentient beings.
+2. Autonomy
+AIS must be developed and used while respecting people’s autonomy, and with the goal of
+increasing people’s control over their lives and their surroundings.
+3. Privacy and Intimacy
+Privacy and intimacy must be protected from AIS intrusion and data acquisition and archiving
+systems (DAAS).
+4. Solidarity
+The development of AIS must be compatible with maintaining the bonds of solidarity among
+people and generations.
+5. Democratic Participation
+AIS must meet intelligibility, justifiability, and accessibility criteria, and must be subjected to
+democratic scrutiny, debate, and control.
+6. Equity
+The development and use of AIS must contribute to the creation of a just and equitable society.
+7. Diversity Inclusion
+The development and use of AIS must be compatible with maintaining social and cultural
+diversity and must not restrict the scope of lifestyle choices or personal experiences.
+8. Prudence
+Every person involved in AI development must exercise caution by anticipating, as far as
+possible, the adverse consequences of AIS use and by taking the appropriate measures to avoid them.
+9. Responsibility
+The development and use of AIS must not contribute to lessening the responsibility of human
+beings when decisions must be made.
+10. Sustainable Development
+The development and use of AIS must be carried out to ensure a strong environmental
+sustainability of the planet.
+
 ## Assessment Rubric
 The student’s work will be assessed using the AAC&U Ethical Reasoning VALUE Rubric available at VALUE Rubrics - [Ethical Reasoning | AAC&U (aacu.org)](https://www.aacu.org/initiatives/value-initiative/value-rubrics/value-rubrics-ethical-reasoning) 
 
