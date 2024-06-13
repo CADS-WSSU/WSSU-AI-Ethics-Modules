@@ -1,4 +1,4 @@
-## Module #1: Study of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI
+## Discussion #1: Study of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI
 Study of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI. Students will read the chapter at home and come to class with a summary of the chapter. Also, they will analyze AI Ethics Principles/guidelines according to Montreal ("The MontréAl Declaration for a Responsible Development of Artificial Intelligence") and UNESCO ("Recommendations on the Ethics of Artificial Intelligence"). 
 
 ### In-class activity: 
