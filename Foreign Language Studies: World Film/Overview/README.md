@@ -1,38 +1,15 @@
 ## Learning Outcomes 
 * Students demonstrate awareness of the ethical dimension of AI and technologies, able to reason about the issues and communicate the issues to others.
 * Students make relevant, valuable original contributions to discussion forums that identify and address ethical issues portrayed in world films.
-## Course Plan
-The modules were covered within weeks 6 to 9 in a typical 16-week class. 
-1. Week 1: AI theory. In class activity: each pair of students will be assigned one principle from the
-Montreal Declaration and a related principle from UNESCO Recommendations. You will
-compare your summaries of the book chapter, compare the two principles, and relate them back to
-the chapter. Also, give any examples of the two assigned principles in the three films previously
-studied. Assignment: Must present their results orally for a grade.
+## Module Organization and Timeline
+The following segments were covered within weeks 6 to 9 in a typical 16-week class. 
+1. **Class Discussion on Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI (Week 6)**: Students will read the chapter at home and come to class with a summary of the chapter. Also, they will analyze AI Ethics Principles/guidelines according to Montreal ("The MontréAl Declaration for a Responsible Development of Artificial Intelligence") and UNESCO ("Recommendations on the Ethics of Artificial Intelligence"). 
 
-2. Week 2: What Happened to Monday? (Europe, 2017) In class: We watch some scenes together
-and go over a summary of the UNESCO and Montreal Declaration on AI and ethics.
-Assignment: What ethical problem is listed in the Montreal Declaration and a related principle
-from UNESCO and portrayed in the movie What Happened to Monday? Why? Post your answer
-and justification in at least 250 words. You may choose to write or record yourself. Due by
-Sunday.
+2. **Class Discussion and Assignment on movie *What Happened to Monday?* (Week 7)**: Class discussion on A.I. and Ethics regarding human life; article analysis: "The Cruel Optimism of Anthropocene Technologies: Suspicion and Fascination of Technology in Okja, What Happened to Monday, and Geostorm." Class discussion on What Happened to Monday?
 
-3. Week 3: My Holo Love (South Korea, 2020). There are twelve episodes in this series. We discuss
-3 per class period, watch a few select scenes and discuss ethical issues as well as some positive
-aspects of having a hologram helping with day-to-day activities, particularly someone with a
-disability such as one of the protagonist’s.
+3. **Class discussion on article and Analyzing the K-Pop series "My Holo Love" (Week 8-9)**: My Holo Love (South Korea, 2020). There are twelve episodes in this series. We discuss 3 per class period, watch a few select scenes and discuss ethical issues as well as some positive aspects of having a hologram helping with day-to-day activities. Class discussion of the article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence."
 
-4. Week 4:
-* My Holo Love article analysis in class and continue the discussion on the series.
-Discussion board due by Sunday. Prompt: State your position regarding an ethical problem in My Holo
-Love and reasonably defend your position. What are the threats of artificial intelligence in the series My
-Holo Love? Specifically, how does Holo violate the Montreal Declaration and/or UNESCO
-Recommendation on the Ethics of Artificial Intelligence? What threats are most serious? How might they
-be combated? How do they compare to the potential benefits? Respond to two classmates in 100 words
-each response.
-
-* Class discussion of article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence."
-
-### AI Ethics Principles/guidelines
+### AI Ethics Principles/Guidelines
 UNESCO (https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
 
 Ten core principles lay out a human-rights centered approach to the Ethics of AI.
