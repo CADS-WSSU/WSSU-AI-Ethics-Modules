@@ -65,7 +65,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="">Student Work Examples</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies%3A%20World%20Film/Student%20Work%20Examples">Student Work Examples</a></td>
       <td>
       </td>
     </tr>
