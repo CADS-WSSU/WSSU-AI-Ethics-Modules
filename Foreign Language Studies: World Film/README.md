@@ -16,7 +16,7 @@
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies:%20World%20Film/Overview">Overview</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Overview.pdf">Overview</a></td>
       <td>
         <ul>
           <li>Learning Outcomes </li>
