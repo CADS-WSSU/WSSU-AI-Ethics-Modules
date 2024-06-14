@@ -20,8 +20,8 @@
       <td>
         <ul>
           <li>Learning Outcomes </li>
-          <li>Course Plan</li>
-          <li>AI Ethics Principles/guidelines</li>
+          <li>Module Organization and Timeline</li>
+          <li>AI Ethics Principles/ Guidelines</li>
           <li>Preliminary Bibliography</li>
           <li>Assessment Rubric</li>
         </ul>
