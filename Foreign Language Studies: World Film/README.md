@@ -1,7 +1,6 @@
 > [!NOTE]
 > Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
-# Foreign Language Studies: World Film
-
+# Exploring Ethics of AI in World Flims
 ## Learning Outcomes 
 
 * Students demonstrate awareness of the ethical dimension of AI and technologies, able to reason about the issues and communicate the issues to others.
