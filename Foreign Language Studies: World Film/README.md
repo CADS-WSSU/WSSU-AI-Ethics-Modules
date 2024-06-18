@@ -27,24 +27,6 @@ This course module is integrated into FLS 2301, “Foreign Language Studies: Wor
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>Class Discussions</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Discussion%20%232%20Class%20discussion%20of%20article.pdf">Class discussion on article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence"</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>In-Class Activity</li>
-          <li>Assigned Readings</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>Assignments</a></td>
       <td></td>
     </tr>
@@ -61,6 +43,24 @@ This course module is integrated into FLS 2301, “Foreign Language Studies: Wor
           <li>Description</li>
           <li>In-Class Activity</li>
           <li>Question for the discussion board</li>
+          <li>Assigned Readings</li>
+        </ul>
+      </td>
+    </tr>
+  <tr>
+      <td>Class Discussions</a></td>
+      <td></td>
+    </tr>
+    <tr>
+  <tr>
+      <td>
+        <ul>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Class%20Discussion%20on%20the%20article%20%E2%80%9CVirtual%20Technology%20in%20Netflix%20K-Drama%20Augmented%20Reality%2C%20Hologram%2C%20and%20Artificial%20Intelligence.pdf">Class discussion on article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence"</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>In-Class Activity</li>
           <li>Assigned Readings</li>
         </ul>
       </td>
