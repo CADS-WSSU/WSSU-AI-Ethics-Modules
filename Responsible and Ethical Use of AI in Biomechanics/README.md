@@ -49,7 +49,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%231_Linear%20Kinematics.pdf">Assignment #1: Linear Kinematics</a></li>
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Assignment #2: Angular Kinematics</a></li>
           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%233_Linear%20Kinetics.pdf">Assignment #3: Linear Kinetics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%20%234_Angular%20Kinetics.pdf">Assignment #4: Angular Kinetics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%234_Angular%20Kinetics.pdf">Assignment #4: Angular Kinetics</a></li>
         </ul>
       </td>
       <td>
@@ -64,7 +64,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
     </tr>
   <tr>
       <td>
-          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Project%23Gait%20Recognition.pdf">Project: Gait Recognition</a>  
+          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Gait%20Recognition.pdf">Group Project on Gait Recognition</a>  
       </td>
       <td>
         <ul>
