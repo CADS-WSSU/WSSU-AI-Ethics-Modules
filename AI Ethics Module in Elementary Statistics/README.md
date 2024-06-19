@@ -15,7 +15,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview.pdf">Overview</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics/Overview.pdf">Overview</a></td>
       <td>
         <ul>
           <li>Module Description</li>
