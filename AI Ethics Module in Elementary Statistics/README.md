@@ -47,7 +47,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
      <tr>
       <td>
         <ul>
-          <li><a href="">Project #2: Real Life Case Studies of AI Biases </a></li>
+          <li><a href="">Project #2: Hidden Bias in COMPAS</a></li>
         </ul>
       </td>
       <td>
