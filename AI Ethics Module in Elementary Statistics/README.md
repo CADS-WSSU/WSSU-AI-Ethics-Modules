@@ -1,8 +1,7 @@
 > [!NOTE]
 > Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
 # AI Ethics Module in Elementary Statistics
-In this module two hands-on projects has been incorporated in MAT 2326 - Elementary Statistics in the Spring 2024 semester to introduce to students the miraculously glamorous power offered by Artificial Intelligence (AI) and more importantly, to raise their awareness of the hidden-in-plain-sight shortcomings/biases of AI, which are seemingly unbeknownst
-to the vast majority of students.
+This course module is integrated into MAT 2326 Elementary Statistics course at WSSU. EXS 3315 Biomechanics, offered by the Department of Mathematics aims to analyze the validity of a statistical argument from data-gathering through implementation. This course is primarily taken by Second undergraduate degree and undergraduate students. A list of typical WSSU majors who typically take the course are Nursing, Exercise Science, Mathematics, Biology, and Business.  In this module two hands-on projects have been incorporated in MAT 2326 - Elementary Statistics in the Spring 2024 semester to introduce to students the miraculously glamorous power offered by Artificial Intelligence (AI) and more importantly, to raise their awareness of the hidden-in-plain-sight shortcomings/biases of AI, which are seemingly unbeknownst to the vast majority of students.
 ## Learning Outcomes of this Module
 
 * Students' information literacy will be enhanced by instilling skills related to sourcing, evaluating, and critically analyzing information.
