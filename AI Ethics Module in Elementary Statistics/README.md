@@ -26,19 +26,19 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       </td>
     </tr>
      <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Hands-On Projects</a></td>
+      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics/Hands-on%20Projects">Hands-On Projects</a></td>
       <td>
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="">Project #1: ChatGPT- Take It with a Grain of Salt</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics/Hands-on%20Projects/Project%201_ChatGPT%20Take%20It%20with%20a%20Grain%20of%20Salt.pdf">Project #1: ChatGPT- Take It with a Grain of Salt</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Assess the Accuracy of ChatGPT</li>
+          <li>Description</li>
           <li>ChatGPT Prompts</li>
           <li>Reflection</li>
         </ul>
@@ -47,7 +47,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
      <tr>
       <td>
         <ul>
-          <li><a href="">Project #2: Hidden Bias in COMPAS</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics/Hands-on%20Projects/Project%202_Hidden%20Bias%20in%20COMPAS.pdf">Project #2: Hidden Bias in COMPAS</a></li>
         </ul>
       </td>
       <td>
