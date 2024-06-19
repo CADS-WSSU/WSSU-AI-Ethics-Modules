@@ -61,7 +61,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       </td>
     </tr>
       <td>
-          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Project%23Gait%20Recognition.pdf">Homework Assignment: Montreal Declaration Principles</a>  
+          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics/Homework%20Assignment%20on%20Montreal%20Declaration%20Principles.pdf">Homework Assignment: Montreal Declaration Principles</a>  
       </td>
       <td>
       </td>
