@@ -33,9 +33,9 @@ This course module is integrated into FLS 2301, “Foreign Language Studies: Wor
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Assignment%20%201_Class%20discussion%20and%20analysis%20of%20Russell%20and%20Norvig%E2%80%99s%20chapter%20on%20Philosophy%2C%20Ethics%2C%20and%20Safety%20of%20AI.pdf">Assignment 1: Class discussion and analysis of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI</a></li>
-           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Assignment%202_Class%20discussion%20and%20analysis%20of%20the%20movie%20What%20Happened%20to%20Monday.pdf">Assignment 2: Class discussion and analysis of the movie What Happened to Monday</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Assignment%203_Class%20discussion%20and%20analysis%20of%20the%20K-Pop%20series%20My%20Holo%20LoveIn-Class%20Activity.pdf">Assignment 3: Class discussion and analysis of the K-Pop series My Holo LoveIn-Class Activity</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Exploring%20Ethics%20of%20AI%20in%20World%20Flims/Assignments/Assignment%20%201_Class%20discussion%20and%20analysis%20of%20Russell%20and%20Norvig%E2%80%99s%20chapter%20on%20Philosophy%2C%20Ethics%2C%20and%20Safety%20of%20AI.pdf">Assignment 1: Class discussion and analysis of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI</a></li>
+           <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Exploring%20Ethics%20of%20AI%20in%20World%20Flims/Assignments/Assignment%202_Class%20discussion%20and%20analysis%20of%20the%20movie%20What%20Happened%20to%20Monday.pdf">Assignment 2: Class discussion and analysis of the movie What Happened to Monday</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Exploring%20Ethics%20of%20AI%20in%20World%20Flims/Assignments/Assignment%203_Class%20discussion%20and%20analysis%20of%20the%20K-Pop%20series%20My%20Holo%20LoveIn-Class%20Activity.pdf">Assignment 3: Class discussion and analysis of the K-Pop series My Holo LoveIn-Class Activity</a></li>
         </ul>
       </td>
       <td>
@@ -47,25 +47,6 @@ This course module is integrated into FLS 2301, “Foreign Language Studies: Wor
         </ul>
       </td>
     </tr>
-  <tr>
-      <td>Class Discussions</a></td>
-      <td></td>
-    </tr>
-    <tr>
-  <tr>
-      <td>
-        <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Foreign%20Language%20Studies%3A%20World%20Film/Class%20Discussion%20on%20the%20article%20%E2%80%9CVirtual%20Technology%20in%20Netflix%20K-Drama%20Augmented%20Reality%2C%20Hologram%2C%20and%20Artificial%20Intelligence.pdf">Class discussion on article “Virtual Technology in Netflix K-Drama: Augmented Reality, Hologram, and Artificial Intelligence"</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>In-Class Activity</li>
-          <li>Assigned Readings</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies%3A%20World%20Film/Student%20Work%20Examples">Student Work Examples</a></td>
       <td>
       </td>
