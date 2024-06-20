@@ -27,7 +27,7 @@ This course module is integrated into FLS 2301, “Foreign Language Studies: Wor
         </ul>
       </td>
     </tr>
-      <td>Assignments</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Exploring%20Ethics%20of%20AI%20in%20World%20Flims/Assignments">Assignments</a></td>
       <td></td>
     </tr>
     <tr>
