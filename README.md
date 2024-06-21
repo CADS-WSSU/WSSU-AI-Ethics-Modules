@@ -76,7 +76,13 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
         Mathematics
       </td>
       <td>
-        Hands-on
+        Hands-on Implementation using ChatGPT and COMPAS
+      </td>
+       <td>
+            Assess the accuracy of ChatGPT, Bias in COMPAS
+      </td>
+        <td>
+        Hands-on Projects, Homework Assignment 
       </td>
     </tr>
     <tr>
@@ -89,7 +95,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module-main">Ethical AI in Writing: Evaluating Bias and Fairness</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module-main">Ethical AI in Writing</a></td>
       <td>
       English
       </td>
