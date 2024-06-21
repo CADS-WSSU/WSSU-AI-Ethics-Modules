@@ -71,7 +71,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main">AI Ethics Module in Elementary Statistics</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics">AI Ethics Module in Elementary Statistics</a></td>
       <td>
         Mathematics
       </td>
@@ -95,7 +95,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module-main">Ethical AI in Writing</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Ethical%20AI%20in%20Writing">Ethical AI in Writing</a></td>
       <td>
       English
       </td>
