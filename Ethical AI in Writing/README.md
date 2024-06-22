@@ -1,7 +1,7 @@
 > [!NOTE]
 > Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
 # Ethical AI in Writing
-This course is presented as a research project, which will integrate Artificial Intelligence (AI) Ethics literacy into Advanced Composition at Winston-Salem State University (WSSU) and measure its efficacy. Throughout the semester, students will participate in interrogation of the use of AI in composition and rhetorical studies. More specifically, look at the ethics, impact, and implications for the discipline. 
+This course is presented as a research project, which will integrate Artificial Intelligence (AI) Ethics literacy into Advanced Composition at Winston-Salem State University (WSSU) and measure its efficacy. Throughout the semester, students will participate in interrogation of the use of AI in composition and rhetorical studies. More specifically, look at the ethics, impact, and implications for the discipline. This course is typically offered to English majors; however, accounting, nursing, education, and business administration majors have taken this course.
 
 
 ## Learning Outcomes of this Module
