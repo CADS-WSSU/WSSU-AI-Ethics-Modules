@@ -100,8 +100,10 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       English
       </td>
        <td>
-      Hands-on
+      Hands-on implementation using generative AI tools for writing 
       </td>
+       <td>MLA/CCCC Task Force Report on Writing and AI; Class Discussion on Documentary “Trustworthy Cities: Ethics in the AI Era” (VOSCAT), Nicholas Carr’s article, “Is Google Making Us Stupid?”  </td>
+       <td>Reader Response Prompt, Discussion Board, Feedback provided to fellow student(s).</td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies%3A%20World%20Film">Foreign Language Studies: World Film</a></td>
