@@ -5,10 +5,10 @@ In this module, students will be presented various approaches to learn the ethic
 
 ## Learning Outcomes of this Module
 
-* Students will gain a basic understanding of the current capacity of AI technology in the field of biomechanics.
-* Students will recognize the ethical implications of using AI at an individual level for academic work and in societal applications.
-* Students will effectively use open-source generative AI (ChatGPT 3.5) in an ethical and responsible manner to evaluate coursework and provide accurate practice problems for course topics.
-* Students will critically evaluate the use of AI in individual and societal level situations to determine ethical and responsible usage via an established ethical framework.
+* Students will DISCUSS the general ethics involved in AI in the visual arts (aware) 
+* Students will READ about AI and specific UNESCO and Montreal Ethical positions on AI (prepare) 
+* Students will ROLE PLAY a hypothetical professional scenario (present) 
+* Students will CREATE using AI in 3 different ethically appropriate approaches (produce)
 
 ## Navigating the Module
 <table>
@@ -29,7 +29,7 @@ In this module, students will be presented various approaches to learn the ethic
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Handout.pdf">Introduction to AI Handout</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Handout.pdf">Introduction Discussion</a></td>
       <td>
         <ul>
           <li>What is AI and what is it capable of?</li>
@@ -39,17 +39,28 @@ In this module, students will be presented various approaches to learn the ethic
       </td>
     </tr>
      <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Assignments</a></td>
-      <td>
+      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">ROLL PLAY</a></td>
+        <td>
+        <ul>
+          <li>Description</li>
+          <li>Example Questions</li>
+          <li>Tags</li>
+          <li>Assigned Readings</li>
+          <li>Ancillary AI Assessment (AAA)</li>
+        </ul>
       </td>
+     </tr>
+     <tr>
+      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Art Projects</a></td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%231_Linear%20Kinematics.pdf">Assignment #1: Linear Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Assignment #2: Angular Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%233_Linear%20Kinetics.pdf">Assignment #3: Linear Kinetics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%234_Angular%20Kinetics.pdf">Assignment #4: Angular Kinetics</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%231_Linear%20Kinematics.pdf">Project #1: HOW CAN I USE AI ART ETHICALLY?
+</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Project #2: Ethical AI Art Use: Use your own portfolio of original art for the AI to generate images from</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Project #3: Ethical AI Art Use: Create your own vision/concept boards</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Project #4: Ethical AI Art Use: Advocate for a non-exploitative and fair AI art system</a></li>
         </ul>
       </td>
       <td>
@@ -64,7 +75,7 @@ In this module, students will be presented various approaches to learn the ethic
     </tr>
   <tr>
       <td>
-          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Gait%20Recognition.pdf">Group Project on Gait Recognition</a>  
+          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Gait%20Recognition.pdf">Conclusion and Outcomes for future</a>  
       </td>
       <td>
         <ul>
