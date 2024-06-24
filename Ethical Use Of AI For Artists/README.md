@@ -29,13 +29,13 @@ In this module, students will be presented various approaches to learn the ethic
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Handout.pdf">Introduction Discussion</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Handout.pdf">Introduction Discussion & Assignment on Understanding the importance of responsible use of AI and advocating for a fair AI art system</a></td>
       <td>
         <ul>
           <li>Description</li>
           <li>Assignment</li>
-          <li>Learning Outcomes</li>
           <li>Ethical Focus</li>
+          <li>Assessment </li>
         </ul>
       </td>
     </tr>
