@@ -32,23 +32,16 @@ In this module, students will be presented various approaches to learn the ethic
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Handout.pdf">Introduction Discussion</a></td>
       <td>
         <ul>
-          <li>What is AI and what is it capable of?</li>
-          <li>The Montreal Declaration on Responsible AI</li>
-          <li>How to use ChatGPT 3.5 for this course</li>
+          <li>Description</li>
+          <li>Assignment</li>
+          <li>Learning Outcomes</li>
+          <li>Ethical Focus</li>
         </ul>
       </td>
     </tr>
      <tr>
       <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">ROLL PLAY</a></td>
-        <td>
-        <ul>
-          <li>Description</li>
-          <li>Example Questions</li>
-          <li>Tags</li>
-          <li>Assigned Readings</li>
-          <li>Ancillary AI Assessment (AAA)</li>
-        </ul>
-      </td>
+        <td>Present acts in class on given scenario</td>
      </tr>
      <tr>
       <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Art Projects</a></td>
