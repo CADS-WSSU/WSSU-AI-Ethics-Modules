@@ -4,8 +4,8 @@
 This course module is integrated into MAT 2326 Elementary Statistics course at WSSU. MAT 2326 Elementary Statistics, offered by the Department of Mathematics  focuses on the use of statistics as a tool in the decision-making process. This is a popular General Education course at WSSU and taken by a large number of majors from Nursing, Exercise Science, Mathematics, Biology, and Business departments. Two hands-on projects have been incorporated in MAT 2326 - Elementary Statistics in the Spring 2024 semester to introduce to students the miraculously glamorous power offered by AI and more importantly, to raise their awareness of the hidden-in-plain-sight shortcomings/biases of AI, which are seemingly unbeknownst to the vast majority of students.
 ## Learning Outcomes of this Module
 
-* Students' information literacy will be enhanced by instilling skills related to sourcing, evaluating, and critically analyzing information.
-* Students' proficiency in oral communication will be cultivated  as students articulate their findings and insights clearly and engagingly, fostering their ability to effectively convey complex concepts to an audience.
+* Students will learn to evaluate the perrormance of an AI system such as ChatGPT critically while discering between its strengths and limitations in order to be able to make informed decisions aout its use in various contexts. 
+* Students will learn about biases in AI systems and will engage in discussions and inittiaves aimed at adressing bias-related issues, promoting fairness and equity. 
 
 ## Navigating the Module
 <table>
