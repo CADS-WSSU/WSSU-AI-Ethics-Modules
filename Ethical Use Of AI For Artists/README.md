@@ -40,7 +40,7 @@ In this module, students will be presented various approaches to learn the ethic
       </td>
     </tr>
      <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">ROLL PLAY</a></td>
+      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Role Play</a></td>
         <td>Present acts in class on given scenario</td>
      </tr>
      <tr>
