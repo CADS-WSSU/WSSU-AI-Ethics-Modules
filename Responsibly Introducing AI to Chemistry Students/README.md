@@ -55,14 +55,14 @@ higher education.
       </td>
     </tr>
     <tr>
-    <td><a href="">Assignments</a></td> 
+    <td><a href="">Assignments and Final Exam</a></td> 
     </tr>
     <tr>
       <td>
         <ul>
           <li><a href="">Assignment #1: Discussion Board - WSSU Scenario</a></li>
           <li><a href="">Assignment #2: Design, Answer , and Evalaute Chemistry Question</a></li>
-          <li><a href="">Assignment #3: Final Exam</a></li>
+          <li><a href="">Final Exam</a></li>
       </td>
       <td>
         <ul>
