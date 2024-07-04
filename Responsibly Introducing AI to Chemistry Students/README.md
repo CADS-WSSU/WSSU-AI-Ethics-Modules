@@ -81,6 +81,6 @@ higher education.
 
 ## Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Dr. Michael Jarrett, Instructor of this module and Assistant Professor of Department of Exercise Physiology
-at Winston-Salem State University](mailto:jarrettms@wssu.edu)
+* [Dr. Charles Edward Ebert, Instructor of this module and Professor of Department of Chemistry
+at Winston-Salem State University](mailto:)
 * [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
