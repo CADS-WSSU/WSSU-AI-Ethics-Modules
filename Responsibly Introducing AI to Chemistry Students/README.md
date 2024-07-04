@@ -7,9 +7,16 @@ higher education.
 
 ## Learning Outcomes of this Module
 
-* Students will recognize the capabilities and limitations of AI models.
-* Students will be able to describe the ethical implications of using AI models in their work.
-* Students will be able to design processes to utilize AI models (current and future) to advance chemistry research.
+- Students should recognize capabilities and limitations of AI models.
+  -	Recognize patterns in AI responses.
+  -	Examine veracity of answers provided.
+-	Students should be able to describe the ethical implications of using AI models in their work.
+    - Can AI models assist them in learning? Designing quizzes, flashcards, mneumonics.
+    - How can abusing AI for quick answers harm them, their peers, or others?
+- Students should design processes to utilize AI models (current and future) to advance chemistry research.
+    - Examine characteristics of soil types and ions to predict level of interaction.
+    - Need for accessible data to train AIs.
+
 
 ## Navigating the Module
 <table>
