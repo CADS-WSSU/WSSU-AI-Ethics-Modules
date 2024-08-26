@@ -27,6 +27,7 @@ Each case study incorporates all five elements since students cannot evaluate an
           <li>Description</li>
           <li>AI Ethics Principles/Guidelines</li>
           <li>Learning Outcomes</li>
+          <li>Module Organization and Timeline</li>
           <li>Assessment Rubric</li>
         </ul>
       </td>
@@ -42,11 +43,11 @@ Each case study incorporates all five elements since students cannot evaluate an
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%201">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%202">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%203">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%204">Case Study 4: The Ethical Use of Deepfakes</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Case%20Study%205">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-1.pdf">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-2.pdf">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-3.pdf">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-4.pdf">Case Study 4: The Ethical Use of Deepfakes</a></li>
+          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-5.pdf">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
         </ul>
       </td>
       <td>
