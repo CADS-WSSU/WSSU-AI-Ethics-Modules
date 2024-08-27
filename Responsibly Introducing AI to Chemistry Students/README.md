@@ -26,7 +26,7 @@ higher education.
       <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Overview.pdf">Overview</a></td>
+      <td><a href="https://drive.google.com/file/d/1MvhfzeKuAX_h7VzP3olkEkO_qpsl51LZ/view?usp=sharing">Overview</a></td>
       <td>
         <ul>
           <li>Module Description</li>
@@ -37,14 +37,14 @@ higher education.
       </td>
     </tr>
     <tr>
-    <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Class%20Discussions%20and%20Assessments">Class Discussions and Assessment</a></td> 
+    <td><a href="https://drive.google.com/drive/folders/15lDfHj7fP__P7wQT2fciAX7Akw4wG65z?usp=sharing">Class Discussions and Assessment</a></td> 
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Class%20Discussions%20and%20Assessments/Topic%201-What%20is%20AI%20How%20Can%20We%20Recognize%20It.pdf">Topic #1: What is AI?  How Can We Recognize It?</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Class%20Discussions%20and%20Assessments/Topic%202-What%20are%20the%20Ethical%20Concerns%20Centered%20around%20AI%20Use.pdf">Topic #2: What are the Ethical Concerns Centered around AI Use?</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Class%20Discussions%20and%20Assessments/Topic%203-How%20Can%20We%20Responsibly%20Use%20AI%20in%20Chemistry.pdf">Topic #3: How Can We Responsibly Use AI in Chemistry?</a></li>
+          <li><a href="https://drive.google.com/file/d/14cRDGOBlwZ0em0wL8hFbpOjeTV3gmFYy/view?usp=sharing">Topic #1: What is AI?  How Can We Recognize It?</a></li>
+          <li><a href="https://drive.google.com/file/d/1olcF1ADzERRVv2zat_cKkkBI6UqjMM3a/view?usp=sharing">Topic #2: What are the Ethical Concerns Centered around AI Use?</a></li>
+          <li><a href="https://drive.google.com/file/d/1XAH_PDYQd78SmooiCQrcMCuK_tpRhStO/view?usp=sharing">Topic #3: How Can We Responsibly Use AI in Chemistry?</a></li>
       </td>
       <td>
         <ul>
@@ -55,14 +55,14 @@ higher education.
       </td>
     </tr>
     <tr>
-    <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Assignments%20and%20Final%20Exam">Assignments and Final Exam</a></td> 
+    <td><a href="https://drive.google.com/drive/folders/1f8rNh_lW-xZ3wZZ3ieqzxXhMnd9t6UlO?usp=sharing">Assignments and Final Exam</a></td> 
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Assignments%20and%20Final%20Exam/Assignemnt%201-Discussion%20Board%20-%20WSSU%20Scenario.pdf">Assignment #1: Discussion Board - WSSU Scenario</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Assignments%20and%20Final%20Exam/Assignement%202-Design%2C%20Answer%20%2C%20and%20Evalaute%20Chemistry%20Question.pdf">Assignment #2: Design, Answer , and Evalaute Chemistry Question</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students/Assignments%20and%20Final%20Exam/Final%20Exam.pdf">Final Exam</a></li>
+          <li><a href="https://drive.google.com/file/d/1WYQu1rtj34HrIjg8sp2uhrEd4Qq85HZ7/view?usp=sharing">Assignment #1: Discussion Board - WSSU Scenario</a></li>
+          <li><a href="https://drive.google.com/file/d/1W7cA2FYcvPM0ADPkEdpCYUn0dsMhvUHW/view?usp=drive_link">Assignment #2: Design, Answer , and Evalaute Chemistry Question</a></li>
+          <li><a href="https://drive.google.com/file/d/1Rq65Ir8KAE7BGKu0M1leLdGCS-Cu91RF/view?usp=drive_link">Final Exam</a></li>
       </td>
       <td>
         <ul>
