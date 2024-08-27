@@ -67,7 +67,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       </td>
     </tr>
     <tr>
-      <td><a href="">Student Work Examples</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics/Student%20Work%20Examples">Student Work Examples</a></td>
       <td>
       </td>
     </tr>
