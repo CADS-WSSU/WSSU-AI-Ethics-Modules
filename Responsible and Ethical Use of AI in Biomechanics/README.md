@@ -78,11 +78,6 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
         </ul>
       </td>
     </tr>
-    <tr>
-      <td><a href="">Student Work Examples</a></td>
-      <td>
-      </td>
-    </tr>
   </tbody>
 </table>
 
