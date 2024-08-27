@@ -91,7 +91,13 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
        Chemistry 
       </td>
       <td>
-        Hands-on
+        Hands-on Implementation using different AI detection software, Role Play
+      </td>
+       <td>
+       What is AI, How AI generates responses to prompts, Patterns in AI responses, Quantitative Structure-Activity Relationships (QSAR), Quantitative Structure-Property Relationships (QSPR)
+      </td>
+       <td>
+       Assignments, Final Exam
       </td>
     </tr>
     <tr>
