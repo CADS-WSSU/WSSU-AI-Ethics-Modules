@@ -45,9 +45,9 @@ Each case study incorporates all five elements since students cannot evaluate an
         <ul>
           <li><a href="https://drive.google.com/file/d/16AWxgHA5aDg2aLcYfCVk4RbEaqAqTBOa/view?usp=sharing">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
           <li><a href="https://drive.google.com/file/d/12YynzGXVWohswjWXqgSLqGS9ol41jShb/view?usp=sharing">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
-          <li><a href="https://drive.google.com/file/d/1Q-0nIFfra8MlcAcmpL9qBCFo1_mmjc-z/view?usp=sharing">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
-          <li><a href="https://drive.google.com/file/d/19IJeWDSqKvDaEfn_6AE1Rl9t_685do4v/view?usp=sharing">Case Study 4: The Ethical Use of Deepfakes</a></li>
-          <li><a href="https://drive.google.com/file/d/182tQ1ZVUte_NXpfz5-buM0xTAuNP7l36/view?usp=sharing">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
+          <li><a href="https://drive.google.com/file/d/14n37A0jfA1Y5lBrxOAN0Y9dwHn5_cB9R/view?usp=sharing">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
+          <li><a href="https://drive.google.com/file/d/11rLbb99a_nacwg8tOGDNQDZrjTB0thep/view?usp=sharing">Case Study 4: The Ethical Use of Deepfakes</a></li>
+          <li><a href="https://drive.google.com/file/d/1uaXYPosabh3qTECDpoAWvbEX1wV54qjV/view?usp=sharing">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
         </ul>
       </td>
       <td>
