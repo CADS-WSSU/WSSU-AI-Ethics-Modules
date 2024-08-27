@@ -21,7 +21,7 @@ Each case study incorporates all five elements since students cannot evaluate an
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Overview.pdf">Overview</a></td>
+      <td><a href="https://drive.google.com/file/d/1lSeHK33vilDGG9IPWrqZs8uRTlQPtzrN/view?usp=sharing">Overview</a></td>
       <td>
         <ul>
           <li>Description</li>
