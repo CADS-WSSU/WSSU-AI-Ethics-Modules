@@ -43,11 +43,11 @@ Each case study incorporates all five elements since students cannot evaluate an
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-1.pdf">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-2.pdf">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-3.pdf">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-4.pdf">Case Study 4: The Ethical Use of Deepfakes</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/Case%20Studies%201-5/Case-Study-5.pdf">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
+          <li><a href="https://drive.google.com/file/d/16AWxgHA5aDg2aLcYfCVk4RbEaqAqTBOa/view?usp=sharing">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
+          <li><a href="https://drive.google.com/file/d/12YynzGXVWohswjWXqgSLqGS9ol41jShb/view?usp=sharing">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
+          <li><a href="https://drive.google.com/file/d/1Q-0nIFfra8MlcAcmpL9qBCFo1_mmjc-z/view?usp=sharing">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
+          <li><a href="https://drive.google.com/file/d/19IJeWDSqKvDaEfn_6AE1Rl9t_685do4v/view?usp=sharing">Case Study 4: The Ethical Use of Deepfakes</a></li>
+          <li><a href="https://drive.google.com/file/d/182tQ1ZVUte_NXpfz5-buM0xTAuNP7l36/view?usp=sharing">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
         </ul>
       </td>
       <td>
