@@ -21,7 +21,7 @@ Each case study incorporates all five elements since students cannot evaluate an
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1lSeHK33vilDGG9IPWrqZs8uRTlQPtzrN/view?usp=sharing">Overview</a></td>
+      <td><a href="https://drive.google.com/file/d/1B-ptQlo6b4LJtg04pbIFma6fgasiA-2C/view?usp=sharing">Overview</a></td>
       <td>
         <ul>
           <li>Description</li>
@@ -33,7 +33,7 @@ Each case study incorporates all five elements since students cannot evaluate an
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20in%20Business%20Ethics/Instructor%20Guide">Instructor Guide</a></td>
+      <td><a href="https://drive.google.com/file/d/1lTl-lu0h7mrG5XnJwVyvWAEa0XmN0W4i/view?usp=sharing">Instructor Guide</a></td>
       <td>
         <ul>
           <li>Video Guideline About Case Studies 1-5</li>
@@ -43,11 +43,11 @@ Each case study incorporates all five elements since students cannot evaluate an
     <tr>
       <td>
         <ul>
-          <li><a href="https://drive.google.com/file/d/16AWxgHA5aDg2aLcYfCVk4RbEaqAqTBOa/view?usp=sharing">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
-          <li><a href="https://drive.google.com/file/d/12YynzGXVWohswjWXqgSLqGS9ol41jShb/view?usp=sharing">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
-          <li><a href="https://drive.google.com/file/d/14n37A0jfA1Y5lBrxOAN0Y9dwHn5_cB9R/view?usp=sharing">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
-          <li><a href="https://drive.google.com/file/d/11rLbb99a_nacwg8tOGDNQDZrjTB0thep/view?usp=sharing">Case Study 4: The Ethical Use of Deepfakes</a></li>
-          <li><a href="https://drive.google.com/file/d/1uaXYPosabh3qTECDpoAWvbEX1wV54qjV/view?usp=sharing">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
+          <li><a href="https://drive.google.com/file/d/1nGetXULBj0Oi7eOX9yVkW6lJOBw7yZuu/view?usp=sharing">Case Study 1: The Trolley Problem and Self-Driving Cars </a></li>
+          <li><a href="https://drive.google.com/file/d/1DpOE7Fs-8F8WpP18jEjG0NN8OtNDjkaI/view?usp=sharing">Case Study 2: AI in Hiring and Promotion Decisions</a></li>
+          <li><a href="https://drive.google.com/file/d/1RMr5xxBD0ajO0hPKsR9JXCh75VfG8aCm/view?usp=sharing">Case Study 3: The use of generative AI and the possibility of copyright, patent, and trademark infringement</a></li>
+          <li><a href="https://drive.google.com/file/d/1MnGM4ICTozkYu5eVjqL0NnK1KiwywVpS/view?usp=sharing">Case Study 4: The Ethical Use of Deepfakes</a></li>
+          <li><a href="https://drive.google.com/file/d/1yWp4qA97b6luoM6RqmdktHoFDSbTzWCe/view?usp=sharing">Case Study 5: The Implementation of Universal Basic Income (UBI)</a></li>
         </ul>
       </td>
       <td>
