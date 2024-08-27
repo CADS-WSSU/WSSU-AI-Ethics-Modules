@@ -86,7 +86,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module-main">Responsibly Introducing AI to Chemistry Students</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students">Responsibly Introducing AI to Chemistry Students</a></td>
       <td>
        Chemistry 
       </td>
