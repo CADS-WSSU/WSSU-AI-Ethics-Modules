@@ -15,7 +15,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1uQR0pfnELEhnJf8OeA9hsvd7VRyfluJi/view?usp=sharing">Overview</a></td>
+      <td><a href="https://drive.google.com/file/d/13fbMpIyaeMZLCTvbiVz45ogNRVh1nII4/view?usp=sharing">Overview</a></td>
       <td>
         <ul>
           <li>Module Description</li>
@@ -26,14 +26,14 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       </td>
     </tr>
      <tr>
-      <td> <a href="https://drive.google.com/drive/folders/15b9btae9t667bMXynf-zPX0hEcPveUHT?usp=drive_link">Hands-On Projects</a></td>
+      <td> <a href="https://drive.google.com/drive/folders/15b9btae9t667bMXynf-zPX0hEcPveUHT?usp=sharing">Hands-On Projects</a></td>
       <td>
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://drive.google.com/file/d/1lCzyieJ0vF0-3vI7iS1GtJMYqGEwZSO7/view?usp=drive_link">Project #1: ChatGPT- Take It with a Grain of Salt</a></li>
+          <li><a href="https://drive.google.com/file/d/1lCzyieJ0vF0-3vI7iS1GtJMYqGEwZSO7/view?usp=sharing">Project #1: ChatGPT- Take It with a Grain of Salt</a></li>
         </ul>
       </td>
       <td>
@@ -47,7 +47,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
      <tr>
       <td>
         <ul>
-          <li><a href="https://drive.google.com/file/d/12jUJn3Y2xXUBzbsrc5cQz72CKRtY4HoA/view?usp=drive_link">Project #2: Hidden Bias in COMPAS</a></li>
+          <li><a href="https://drive.google.com/file/d/1obvO4XPaKtDzumJSAigqsVcRb1BaFqa3/view?usp=sharing">Project #2: Hidden Bias in COMPAS</a></li>
         </ul>
       </td>
       <td>
@@ -61,7 +61,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       </td>
     </tr>
       <td>
-          <a href="https://drive.google.com/file/d/1yNIQCka5-R5ryh2rpotIld06Jddx1WNP/view?usp=drive_link">Homework Assignment: Montreal Declaration Principles</a>  
+          <a href="https://drive.google.com/file/d/1yNIQCka5-R5ryh2rpotIld06Jddx1WNP/view?usp=sharing">Homework Assignment: Montreal Declaration Principles</a>  
       </td>
       <td>
       </td>
