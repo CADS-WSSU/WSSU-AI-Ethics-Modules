@@ -4,7 +4,7 @@
 This course examines the ethical dimensions of business and the role ethics plays in sound business decisions and a healthy workplace environment. Various ethical theories and corporate models will be studied. The practical application of ethical theory will be discussed through case study analysis, the study of various corporate ethics codes, and student research on current ethical issues in business.
 
 ## Learning Outcomes
-The following five learning outcomes are taken from the Responsible AI workshop put together by Professors Debzani Deb and Greg Taylor of Winston-Salem State University and thus closely parallel the learning outcomes they gave to ensure comparability.
+
 * The student will analyze the fundamental principles that consciously or unconsciously influence one’s ethical conduct and ethical thinking to be assessed through written assignments that require the student to discuss these fundamental principles in analyzing at least one of the case studies
 * Student will understand the different AI ethical principles and concepts as well as understand the Montreal Framework and name/explain several of its key principles to be assessed through written assignments that require the student to discuss these in the context of the problem under consideration
 * Student will recognize ethical issues when presented in the form of a case study and recognize cross-relationships among the issues to be assessed through a debate
