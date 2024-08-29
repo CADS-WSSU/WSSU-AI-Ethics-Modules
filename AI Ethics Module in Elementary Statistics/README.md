@@ -47,7 +47,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
      <tr>
       <td>
         <ul>
-          <li><a href="https://drive.google.com/file/d/1obvO4XPaKtDzumJSAigqsVcRb1BaFqa3/view?usp=sharing">Project #2: Hidden Bias in COMPAS</a></li>
+          <li><a href="https://drive.google.com/file/d/1aSBtdab-HJ_QEo2SMLDjjapksyheSLl-/view?usp=sharing">Project #2: Hidden Bias in COMPAS</a></li>
         </ul>
       </td>
       <td>
