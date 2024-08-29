@@ -10,7 +10,7 @@ The following five learning outcomes are taken from the Responsible AI workshop 
 * Student will recognize ethical issues when presented in the form of a case study and recognize cross-relationships among the issues to be assessed through a debate
 * Student will apply ethical perspectives/concepts independently to an ethical question to be assessed through a debate
 * Student will evaluate different AI ethical perspectives by stating a position regarding an ethical problem and reasonably defend his or her position through a debate
-Each case study incorporates all five elements since students cannot evaluate an ethical problem and provide a position without applying, recognizing, understanding, and analyzing in accordance with each of the other learning goals.  The student’s work will be assessed using the AAC&U Ethical Reasoning VALUE Rubric available at VALUE Rubrics - Ethical Reasoning | AAC&U (aacu.org)
+
 
 
 ## Navigating the Repository
