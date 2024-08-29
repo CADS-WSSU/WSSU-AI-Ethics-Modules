@@ -61,7 +61,7 @@ This course module is integrated into MAT 2326 Elementary Statistics course at W
       </td>
     </tr>
       <td>
-          <a href="https://drive.google.com/file/d/1yNIQCka5-R5ryh2rpotIld06Jddx1WNP/view?usp=sharing">Homework Assignment: Montreal Declaration Principles</a>  
+          <a href="https://drive.google.com/file/d/1mm1EtblPVlHKMUN-5u0xyLAJHFD_BtgS/view?usp=sharing">Homework Assignment: Montreal Declaration Principles</a>  
       </td>
       <td>
       </td>
