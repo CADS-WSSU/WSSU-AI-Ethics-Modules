@@ -76,6 +76,8 @@ higher education.
 
 ## Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Dr. Charles Edward Ebert, Instructor of this module and Professor of Department of Chemistry
-at Winston-Salem State University](mailto:)
-* [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
+* **Dr. Charles Edward Ebert, Instructor of this module and Professor of Department of Chemistry
+at Winston-Salem State University [LinkedIn](https://www.linkedin.com/in/ed-ebert-0173a38/)**
+* **Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
+  Email:debd@wssu.edu**
+* **Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, Email:taylorg@wssu.edu**
