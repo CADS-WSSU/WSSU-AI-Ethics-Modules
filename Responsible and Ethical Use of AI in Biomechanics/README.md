@@ -85,6 +85,6 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
 For questions or additional support regarding this module, feel free to reach out to us:
 * **Dr. Michael Jarrett, Instructor of this module and Assistant Professor of Department of Exercise Physiology
 at Winston-Salem State University, E-mail: jarrettms@wssu.edu**
-* **Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
+* **Dr. Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
   E-mail: debd@wssu.edu**
-* **Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
+* **Dr. Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
