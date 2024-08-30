@@ -5,10 +5,11 @@ In this module, students will be presented various approaches to learn the ethic
 
 ## Learning Outcomes of this Module
 
-* Students will DISCUSS the general ethics involved in AI in the visual arts (aware) 
-* Students will READ about AI and specific UNESCO and Montreal Ethical positions on AI (prepare) 
-* Students will ROLE PLAY a hypothetical professional scenario (present) 
-* Students will CREATE using AI in 3 different ethically appropriate approaches (produce)
+1.	Students will learn about the Montreal Declaration for Responsible AI guidelines and then apply the guidelines to recognize and describe ethical issues in AI-based systems. 
+2.	Students will discuss and reason, both alone and in collaboration with others, about the violation of the guidelines in an AI-enabled case-study and potential solutions of these violations. 
+3.	Students will gain enhanced awareness of approaches to minimize ethical problems that can arise in the development and implementation of AI-based systems. 
+4.	Students will make relevant, valuable original contributions to discussions in class that identify and address ethical issues associated with specific AI-based systems. 
+
 
 ## Navigating the Module
 <table>
