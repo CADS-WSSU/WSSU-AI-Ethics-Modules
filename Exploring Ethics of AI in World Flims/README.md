@@ -58,6 +58,6 @@ This course module is integrated into FLS 2301, “Foreign Language Studies: Wor
 For questions or additional support regarding this module, feel free to reach out to us:
 * **Dr. Jeanine Luciana Lino Silva Couto, Visiting Assistant Professor of the Department World Languages and Cultures
 at Winston-Salem State University, E-mail: coutojl@wssu.edu**
-* **Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
+* **Dr. Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
   E-mail: debd@wssu.edu**
-* **Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
+* **Dr. Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
