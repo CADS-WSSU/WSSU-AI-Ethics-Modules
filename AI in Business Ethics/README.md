@@ -73,6 +73,6 @@ this is to demonstrate to students that there are different solutions to each pr
 For questions or additional support regarding this module, feel free to reach out to us:
 * **Dr. Zagros Madjd-Sadjadi, Instructor of this module and Full Professor of Economics & Chair of the Department of Accounting, Economics, and Finance
 at Winston-Salem State University, E-mail: sadjadizm@wssu.edu**
-* **Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
+* **Dr. Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
   E-mail: debd@wssu.edu**
-* **Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
+* **Dr. Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
