@@ -9,7 +9,7 @@ higher education.
 
 - Students should recognize capabilities and limitations of AI models.
   -	Recognize patterns in AI responses.
-  -	Examine veracity of answers provided.
+  -	Examine the integrity of the answers provided.
 -	Students should be able to describe the ethical implications of using AI models in their work.
     - Can AI models assist them in learning? Designing quizzes, flashcards, mneumonics.
     - How can abusing AI for quick answers harm them, their peers, or others?
