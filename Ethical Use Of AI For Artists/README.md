@@ -19,7 +19,7 @@ In this module, students will be presented various approaches to learn the ethic
       <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview.pdf">Overview</a></td>
+      <td><a href="https://drive.google.com/file/d/1kT8UDGjjl9qUxHzhoN1whlvN_94FQaS6/view?usp=sharing">Overview</a></td>
       <td>
         <ul>
           <li>Module Description</li>
@@ -29,63 +29,71 @@ In this module, students will be presented various approaches to learn the ethic
         </ul>
       </td>
     </tr>
+     <tr>
+      <td> <a href="https://drive.google.com/drive/folders/13vkXw85ihtHvxRyxzZwi0qJBl5lNYN3S?usp=sharing">Assessment</a></td>
+       <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Handout.pdf">Introduction Discussion & Assignment on Understanding the importance of responsible use of AI and advocating for a fair AI art system</a></td>
+      <td>
+      <ul>
+      <li><a href="https://drive.google.com/file/d/19MA0Xge1rIvwqLmC887QuKaGJfKrd8rM/view?usp=sharing">Introduction Discussion & Assignment</a></li>
       <td>
         <ul>
           <li>Description</li>
           <li>Assignment</li>
           <li>Ethical Focus</li>
-          <li>Assessment </li>
+          <li>Assignment</li>
         </ul>
       </td>
-    </tr>
-     <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Role Play</a></td>
+        </td>
+        </tr>
+    <tr>
+    <td>
+      <ul>
+      <li> <a href=https://drive.google.com/file/d/1iGsABDNmGKkwHvEjvukabnAl4oIRM-Hh/view?usp=sharing">Role Play</a></li>
         <td>Present acts in class on given scenario</td>
-     </tr>
+    </tr>
+    <tr>
+    <td>
+      <ul>
+      <li><a href="https://drive.google.com/file/d/1gUiv8ufyIrYb3V9u98_kwm6eDVP5qmS3/view?usp=sharing">Art Project</a></li>
+      <td>
+        <ul>
+          <li>Description</li>
+          <li>3 Ways to use AI Ethically</li>
+          <li>Project</li>
+        </ul>
+      </td>
+    </td>
+    </tr>
+    <td>
+    <ul>
+      <li><a href="https://drive.google.com/file/d/1mOLcHnJZsuhlx0pnllSP0EW_Vj6ASEBX/view?usp=sharing">AI Review Quiz</a></li>
+      <td>
+        <ul>
+        </ul>
+      </ul>
+      </td>
+    </tr>
      <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Art Projects</a></td>
+      <td> <a href="https://drive.google.com/drive/folders/1z3Y0PyMwnPPTRw3ORNqCz96E6W3kEwbj?usp=sharing">Class Discussions</a></td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%231_Linear%20Kinematics.pdf">Project #1: HOW CAN I USE AI ART ETHICALLY?
-</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Project #2: Ethical AI Art Use: Use your own portfolio of original art for the AI to generate images from</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Project #3: Ethical AI Art Use: Create your own vision/concept boards</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Project #4: Ethical AI Art Use: Advocate for a non-exploitative and fair AI art system</a></li>
+          <li><a href="https://drive.google.com/file/d/1YyKj-9_mm2ulrkLleXGc12o_6LpjiEe4/view?usp=sharing">Module Overview</a></li>
+          <li><a href="https://drive.google.com/file/d/1jYi4AUTFgiDfk-ApHIxTHaPtvzy2Ok4_/view?usp=sharing">An Artist’s response to AI</a></li>
+          <li><a href="https://drive.google.com/file/d/1kBlNvH-xg3Buicdqo8vxJ6Z8zf1ZYgSK/view?usp=sharing">What is AI Art</a></li>
+          <li><a href="https://drive.google.com/file/d/1-ebj8WWlqNR5zQdnGiwXH3Yx-xaoEUON/view?usp=sharing">Does AI Steal?</a></li>
+          <li><a href="https://drive.google.com/file/d/1jeGhf64qn7IwKFIkMVJj8Nrv1SRWJbnA/view?usp=sharing">Case Example</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Description</li>
-          <li>Example Questions</li>
-          <li>Tags</li>
-          <li>Assigned Readings</li>
-          <li>Ancillary AI Assessment (AAA)</li>
         </ul>
-      </td>
-    </tr>
-  <tr>
-      <td>
-          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Gait%20Recognition.pdf">Conclusion and Outcomes for future</a>  
-      </td>
-      <td>
-        <ul>
-          <li>Description</li>
-          <li>Suggested Group Topics for Gait Recognition Technology</li>
-          <ul>
-            <li>Reference Materials</li>
-            <li>Discussion Questions</li>
-          </ul>
-          <li>Tags</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="">Student Work Examples</a></td>
-      <td>
       </td>
     </tr>
   </tbody>
@@ -93,6 +101,7 @@ In this module, students will be presented various approaches to learn the ethic
 
 ## Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Dr. Michael Jarrett, Instructor of this module and Assistant Professor of Department of Exercise Physiology
-at Winston-Salem State University](mailto:jarrettms@wssu.edu)
-* [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
+* **Prof. Scott Betz, Instructor of this module and Professor in the Art History department at Winston-Salem State University, E-mail: betzs@wssu.edu**
+* **Dr. Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
+  E-mail: debd@wssu.edu**
+* **Dr. Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
