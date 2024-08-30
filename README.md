@@ -112,7 +112,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
        <td>Reader Response Prompt, Discussion Board, Feedback provided to fellow student(s).</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Foreign%20Language%20Studies%3A%20World%20Film">Foreign Language Studies: World Film</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Exploring%20Ethics%20of%20AI%20in%20World%20Flims">Exploring Ethics of AI in World Flims</a></td>
       <td>
         World Languages and Cultures
       </td>
