@@ -18,7 +18,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Overview.pdf">Overview</a></td>
+      <td><a href="https://drive.google.com/file/d/10D8R9v3jxjFSIO7-dlo7ckxpWv_e29rh/view?usp=sharing">Overview</a></td>
       <td>
         <ul>
           <li>Module Description</li>
@@ -29,7 +29,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Introduction%20to%20AI%20Handout.pdf">Introduction to AI Handout</a></td>
+      <td><a href="https://drive.google.com/file/d/1A09gPxnTV4YfhohDRAi1s-xtUUp5uG7c/view?usp=sharing">Introduction to AI Handout</a></td>
       <td>
         <ul>
           <li>What is AI and what is it capable of?</li>
@@ -39,17 +39,17 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
       </td>
     </tr>
      <tr>
-      <td> <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments">Assignments</a></td>
+      <td> <a href="https://drive.google.com/drive/folders/1iJJDkkOmKLia3YyNoDrz8oL-dvZDBB9G?usp=sharing">Assignments</a></td>
       <td>
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%231_Linear%20Kinematics.pdf">Assignment #1: Linear Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%232_Angular%20Kinematics.pdf">Assignment #2: Angular Kinematics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%233_Linear%20Kinetics.pdf">Assignment #3: Linear Kinetics</a></li>
-          <li><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Assignments/Assignment%234_Angular%20Kinetics.pdf">Assignment #4: Angular Kinetics</a></li>
+          <li><a href="https://drive.google.com/file/d/1vPWg8j9-vqyNTuqi1jTwmQFgxfpRiA_I/view?usp=sharing">Assignment #1: Linear Kinematics</a></li>
+          <li><a href="https://drive.google.com/file/d/1iRZz9fuK9wjiRTxqD2DfVvFk6K4gM4Kk/view?usp=sharing">Assignment #2: Angular Kinematics</a></li>
+          <li><a href="https://drive.google.com/file/d/1Zv1lLRWH1Gw2CSom7gHUMoeJUSiCUGkk/view?usp=sharing">Assignment #3: Linear Kinetics</a></li>
+          <li><a href="https://drive.google.com/file/d/1MtV_6-kd8VtEIKWShlG1bcexK5QItBXG/view?usp=sharing">Assignment #4: Angular Kinetics</a></li>
         </ul>
       </td>
       <td>
@@ -64,7 +64,7 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
     </tr>
   <tr>
       <td>
-          <a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics/Group%20Project%20on%20Gait%20Recognition.pdf">Group Project on Gait Recognition</a>  
+          <a href="https://drive.google.com/file/d/1NTaUXeaEPZ2kAHKRRh408y8fQHZarIxP/view?usp=sharing">Group Project on Gait Recognition</a>  
       </td>
       <td>
         <ul>
@@ -83,6 +83,8 @@ This course module is integrated into EXS 3315 Biomechanics course at WSSU. EXS 
 
 ## Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Dr. Michael Jarrett, Instructor of this module and Assistant Professor of Department of Exercise Physiology
-at Winston-Salem State University](mailto:jarrettms@wssu.edu)
-* [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
+* **Dr. Michael Jarrett, Instructor of this module and Assistant Professor of Department of Exercise Physiology
+at Winston-Salem State University, E-mail: jarrettms@wssu.edu**
+* **Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University,
+  E-mail: debd@wssu.edu**
+* **Greg Taylor, Associate Professor of Business Analytics at Winston-Salem State University, E-mail: taylorg@wssu.edu**
