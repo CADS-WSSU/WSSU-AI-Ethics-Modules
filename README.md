@@ -128,13 +128,19 @@ Reality, Hologram, and Artificial Intelligence."
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Ethical Use Of AI For Artists</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Ethical%20Use%20Of%20AI%20For%20Artists">Ethical Use Of AI For Artists</a></td>
       <td>
        Arts and Visual Studies
       </td>
       <td>
        Hands-on
       </td>
+       <td>
+          Ethical Uses of AI in Image Generation, Many ways to use AI, Difference between Dance Diffusion and Stable Diffusion, 3 Ways to use AI Ethically
+       </td>
+       <td>
+          Assignment, Role Play, Art Project, Quiz
+       </td>
     </tr>
     
   
