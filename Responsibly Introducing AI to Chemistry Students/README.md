@@ -26,7 +26,7 @@ higher education.
       <th>Information In Each File/Folder</th>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1MvhfzeKuAX_h7VzP3olkEkO_qpsl51LZ/view?usp=sharing">Overview</a></td>
+      <td><a href="https://drive.google.com/file/d/1eif18bx0mmhyLXstPYO-45CMRJ0tNHKM/view?usp=sharing">Overview</a></td>
       <td>
         <ul>
           <li>Module Description</li>
@@ -42,9 +42,9 @@ higher education.
     <tr>
       <td>
         <ul>
-          <li><a href="https://drive.google.com/file/d/14cRDGOBlwZ0em0wL8hFbpOjeTV3gmFYy/view?usp=sharing">Topic #1: What is AI?  How Can We Recognize It?</a></li>
-          <li><a href="https://drive.google.com/file/d/1olcF1ADzERRVv2zat_cKkkBI6UqjMM3a/view?usp=sharing">Topic #2: What are the Ethical Concerns Centered around AI Use?</a></li>
-          <li><a href="https://drive.google.com/file/d/1XAH_PDYQd78SmooiCQrcMCuK_tpRhStO/view?usp=sharing">Topic #3: How Can We Responsibly Use AI in Chemistry?</a></li>
+          <li><a href="https://drive.google.com/file/d/1zP6EqS9nXIlo1KmCbcNKvwjdMf4hn5iJ/view?usp=sharing">Topic #1: What is AI?  How Can We Recognize It?</a></li>
+          <li><a href="https://drive.google.com/file/d/1_1GG0bO95vDzFch_p47oWCVt_04wTCKm/view?usp=sharing">Topic #2: What are the Ethical Concerns Centered around AI Use?</a></li>
+          <li><a href="https://drive.google.com/file/d/106rGRTk7XwDmAbyfiKm8zI0c7QgK9rPL/view?usp=sharing">Topic #3: How Can We Responsibly Use AI in Chemistry?</a></li>
       </td>
       <td>
         <ul>
@@ -60,9 +60,9 @@ higher education.
     <tr>
       <td>
         <ul>
-          <li><a href="https://drive.google.com/file/d/1WYQu1rtj34HrIjg8sp2uhrEd4Qq85HZ7/view?usp=sharing">Assignment #1: Discussion Board - WSSU Scenario</a></li>
-          <li><a href="https://drive.google.com/file/d/1W7cA2FYcvPM0ADPkEdpCYUn0dsMhvUHW/view?usp=drive_link">Assignment #2: Design, Answer , and Evalaute Chemistry Question</a></li>
-          <li><a href="https://drive.google.com/file/d/1Rq65Ir8KAE7BGKu0M1leLdGCS-Cu91RF/view?usp=drive_link">Final Exam</a></li>
+          <li><a href="https://drive.google.com/file/d/1vz1AdDuGGYVnFP8SgWCb-DJYF4UpKPWc/view?usp=sharing">Assignment #1: Discussion Board - WSSU Scenario</a></li>
+          <li><a href="https://drive.google.com/file/d/1cm3ch615rYvFMRO0dqvw_5UUYp7KGumY/view?usp=sharing">Assignment #2: Design, Answer , and Evalaute Chemistry Question</a></li>
+          <li><a href="https://drive.google.com/file/d/10aNpwhxmPh5aK9kJTpVpiobOUDucTM9o/view?usp=sharing">Final Exam</a></li>
       </td>
       <td>
         <ul>
