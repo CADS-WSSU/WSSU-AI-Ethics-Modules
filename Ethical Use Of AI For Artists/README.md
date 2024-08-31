@@ -80,6 +80,10 @@ In this module, students will be presented various approaches to learn the ethic
     </tr>
      <tr>
       <td> <a href="https://drive.google.com/drive/folders/1z3Y0PyMwnPPTRw3ORNqCz96E6W3kEwbj?usp=sharing">Class Discussions</a></td>
+        <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>
