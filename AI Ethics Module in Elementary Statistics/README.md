@@ -1,5 +1,5 @@
 > [!NOTE]
-> Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
+> Full module can be downloaded from [here](https://drive.google.com/file/d/1eqMV_8ADCgfhpkXmw4U1-28WmC19qIXi/view?usp=sharing). 
 # AI Ethics Module in Elementary Statistics
 This course module is integrated into MAT 2326 Elementary Statistics course at WSSU. MAT 2326 Elementary Statistics, offered by the Department of Mathematics  focuses on the use of statistics as a tool in the decision-making process. This is a popular General Education course at WSSU and taken by a large number of majors from Nursing, Exercise Science, Mathematics, Biology, and Business departments. Two hands-on projects have been incorporated in MAT 2326 - Elementary Statistics in the Spring 2024 semester to introduce to students the miraculously glamorous power offered by AI and more importantly, to raise their awareness of the hidden-in-plain-sight shortcomings/biases of AI, which are seemingly unbeknownst to the vast majority of students.
 ## Learning Outcomes of this Module
