@@ -1,5 +1,5 @@
 > [!NOTE]
-> Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
+> Full module can be downloaded from [here](https://drive.google.com/file/d/19h0cAj02_MjNdMNRpW_FvAAPKtVo8jTn/view?usp=sharing). 
 # AI in Business Ethics
 This course module is integrated into BUA 3302 Business Ethics course at WSSU. BUA 3302 is offered as an elective course to Business and Finance majors at WSSU. This course examines the ethical dimensions of business and the role ethics plays in sound business decisions and a healthy workplace environment. In this module, five different AI case studies are followed, each one presenting an ethical dilemma for business leaders. Throughout this module, business students examine the various problems from different sides in order to determine what they believe to be a proper moral outcome. The key to all of
 this is to demonstrate to students that there are different solutions to each problem and that there is not one unique solution that can always be implemented.
