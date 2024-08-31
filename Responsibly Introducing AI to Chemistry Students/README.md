@@ -1,5 +1,5 @@
 > [!NOTE]
-> Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
+> Full module can be downloaded from [here](https://drive.google.com/file/d/1WN-9pPUP6PapACD1lBPPQLCe9BJbln7N/view?usp=sharing). 
 # Responsibly Introducing AI to Chemistry Students
 CHE 1114 Chemistry, offered by the Department of Chemistry, consists of a series of laboratories that reinforce the concepts being studied in lecture (CHE 1314). This is a foundational course taken primarily by sophomores, with several
 freshman and juniors also enrolled. This module seeks to infuse experience with AI models into chemistry laboratory courses with the goal of training students on how to recognize AI works and how to responsibly and ethically utilize AI models in
@@ -61,7 +61,7 @@ higher education.
       <td>
         <ul>
           <li><a href="https://drive.google.com/file/d/1vz1AdDuGGYVnFP8SgWCb-DJYF4UpKPWc/view?usp=sharing">Assignment #1: Discussion Board - WSSU Scenario</a></li>
-          <li><a href="https://drive.google.com/file/d/1cm3ch615rYvFMRO0dqvw_5UUYp7KGumY/view?usp=sharing">Assignment #2: Design, Answer , and Evalaute Chemistry Question</a></li>
+          <li><a href="https://drive.google.com/file/d/1cm3ch615rYvFMRO0dqvw_5UUYp7KGumY/view?usp=sharing">Assignment #2: Design, Answer , and Evaluate Chemistry Question</a></li>
           <li><a href="https://drive.google.com/file/d/10aNpwhxmPh5aK9kJTpVpiobOUDucTM9o/view?usp=sharing">Final Exam</a></li>
       </td>
       <td>
