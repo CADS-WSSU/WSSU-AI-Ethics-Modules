@@ -1,5 +1,5 @@
 > [!NOTE]
-> Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
+> Full module can be downloaded from [here](https://drive.google.com/file/d/15OjWMysebhOw-iUu_eI1NdySUeGK_Aq6/view?usp=sharing). 
 # Exploring Ethics of AI in World Flims
 This course module is integrated into FLS 2301, “Foreign Language Studies: World Film” course at WSSU. In FLS 2301, offered by the Department of World Languages and Cultures, students learn how to increase their cross-cultural awareness and experience with world cultures by watching various global films. This is a popular General Education course at WSSU and taken by many sophomores and juniors from various departments. Through movie watching and discussion, this module intends to familiarize students with the ethical problems related to AI and technologies in world films.
 ## Learning Outcomes of This Module
