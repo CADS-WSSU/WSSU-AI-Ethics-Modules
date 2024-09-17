@@ -1,5 +1,3 @@
-> [!NOTE]
-> Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
 # Ethical Use Of AI For Artists
 In this module, students will be presented various approaches to learn the ethical uses of AI in image generation. This will help them become aware of the issue, prepare their ethical positions, present their views in rich context and finally to produce artwork without fear or harm using AI ethically.
 
