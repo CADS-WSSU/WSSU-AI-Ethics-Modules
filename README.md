@@ -1,7 +1,6 @@
-# WSSU-AI-Ethics-Modules
+# AI Ethics Course Modules at WSSU 
 ### Description
-This repository compiles 7 modules aimed at integrating AI Ethics with a focus on social justice into 7 interdisciplinary courses at WSSU as a part of Winston-Salem State University's Center for Applied Data Science (CADS) Faculty Adopter program 2023-2024. The goal of this program is to increase participation in Responsible AI as part of a grant supported by the Responsible Computing Challenge.
-
+This repository contains seven course modules designed to integrate AI Ethics into interdisciplinary courses at Winston-Salem State University (WSSU), developed by the Center for Applied Data Science (CADS) at WSSU. The initiative aims to promote engagement in Responsible AI practices, as part of a grant funded by Mozilla Fiundation's [Responsible Computing Challenge award] (https://foundation.mozilla.org/en/blog/mozilla-announces-15-new-responsible-computing-challenge-awardees-in-the-us/).
 This repository is intended to be a central open-source resource for all modules and materials created as part of the program. These resources can be used for reference or adoption to increase awareness about the ethical use of AI among students at various academic levels.
 
 ### What is AI Ethics 
