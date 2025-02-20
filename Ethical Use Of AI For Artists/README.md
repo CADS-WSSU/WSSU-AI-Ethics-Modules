@@ -77,10 +77,10 @@ This module is incorporated into ART 4399, Studio Art Seminar course, which furt
       </td>
     </tr>
      <tr>
-      <td> <a href="https://drive.google.com/drive/folders/1z3Y0PyMwnPPTRw3ORNqCz96E6W3kEwbj?usp=sharing">Class Discussions</a></td>
-        <td>
-        <ul>
-        </ul>
+      <td> <a href="https://drive.google.com/drive/folders/1z3Y0PyMwnPPTRw3ORNqCz96E6W3kEwbj?usp=sharing">Class Discussions</a>
+      </td>
+        <td> 
+        Additional topics covered in class to provide a comprehensive overview of the course
       </td>
     </tr>
     <tr>
