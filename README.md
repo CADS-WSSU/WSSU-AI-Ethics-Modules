@@ -59,16 +59,17 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
      <tr>
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsible%20and%20Ethical%20Use%20of%20AI%20in%20Biomechanics">Responsible and Ethical Use of AI in Biomechanics</a></td>
       <td>
-        Exercise Physiology
+        Exercise or Sports Science
       </td>
       <td>
-        Hands-on Implementation using ChatGPT
+        Case study analysis; Use of ChatGPT  to generate practice problems and workflows, check student devised answers of mathematical problems for accuracy
       </td>
         <td>
-            Linear Kinematics, Angular Kinematics, Linear Kinetics, Angular Kinetics, Gait Recognition
+            What is AI and what is it capable of; Using ChatGPT ethically for enhancing learning; Use of AI and machine learning in Gait Recognition
+
       </td>
         <td>
-        Written Discussion, Class Discussion, Quiz 
+        Written Report, Class Discussion, Quiz, hands-on 
       </td>
     </tr>
     <tr>
