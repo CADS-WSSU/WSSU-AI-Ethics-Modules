@@ -36,24 +36,24 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
   <tbody>
     <tr>
       <th>Module Name</th>
-      <th>Course</th>
-      <th>Method of Instruction</th>
+      <th>Domain</th>
+      <th>Learning Activity</th>
       <th>Topics Covered</th>
-      <th>Student Assessment Method</th>
+      <th>Asessments</th>
     </tr>
      <tr>
       <td><a href="AI in Business Ethics">AI in Business Ethics</a></td>
       <td>
-        Accounting, Economics, and Finance
+        Buseness, Accounting, Economics, Finance
       </td>
         <td>
-        Case-Study, Hands-on Implementation using Moral Machine, Harvard Implicit Association Test, Chat GPT/Open AI
+         Case study and media analysis; Hands-on use of Moral Machine (MIT), Harvard’s Implicit Association Test, ChatGPT, and Stable Diffusion
       </td>
         <td>
-        The Trolley Problem and Self-Driving Cars, AI in Hiring and Promotion Decisions, The Use of Generative AI and Possibility of Copyright, The Ethical Use of Deepfakes, The Implementation of Universal Basic Income (UBI)
+        The Trolley Problem and Self-Driving Cars, AI in Hiring and Promotion Decisions, The Use of Generative AI and Possibility of Copyright violation, The Ethical Use of Deepfakes, The Implementation of Universal Basic Income (UBI)
       </td>
         <td>
-           Class Discussion/Debate, Paper Writing
+           Class Discussion/Debate, Answer to Short Prompts, hands-on
       </td>
     </tr>
      <tr>
