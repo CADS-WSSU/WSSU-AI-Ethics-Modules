@@ -64,11 +64,10 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       <td>
         Case study analysis; Use of ChatGPT  to generate practice problems and workflows, check student devised answers of mathematical problems for accuracy
       </td>
-        <td>
+      <td>
             What is AI and what is it capable of; Using ChatGPT ethically for enhancing learning; Use of AI and machine learning in Gait Recognition
-
       </td>
-        <td>
+      <td>
         Written Report, Class Discussion, Quiz, hands-on 
       </td>
     </tr>
