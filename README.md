@@ -72,7 +72,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics">AI Ethics Module in Elementary Statistics</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics">AI Ethics in Elementary Statistics</a></td>
       <td>
         Mathematics, Statistics
       </td>
@@ -87,18 +87,18 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students">Responsibly Introducing AI to Chemistry Students</a></td>
+      <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Responsibly%20Introducing%20AI%20to%20Chemistry%20Students">Responsible AI in Chemistry</a></td>
       <td>
        Chemistry 
       </td>
       <td>
-        Hands-on Implementation using different AI detection software, Role Play
+        Ethical use of ChatGPT; Case Study Analysis
       </td>
        <td>
-       What is AI, How AI generates responses to prompts, Patterns in AI responses, Quantitative Structure-Activity Relationships (QSAR), Quantitative Structure-Property Relationships (QSPR)
+       What is AI? How Can We Recognize It? What are the Ethical Concerns Centered around AI Use? How Can We Responsibly Use AI in Chemistry?
       </td>
        <td>
-       Assignments, Final Exam
+       Quiz, Discussion thread, Written Report
       </td>
     </tr>
     <tr>
@@ -107,10 +107,13 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
       English
       </td>
        <td>
-      Hands-on implementation using generative AI tools for writing 
+      Ethical use of generative AI tools for writing 
       </td>
-       <td>MLA/CCCC Task Force Report on Writing and AI; Class Discussion on Documentary “Trustworthy Cities: Ethics in the AI Era” (VOSCAT), Nicholas Carr’s article, “Is Google Making Us Stupid?”  </td>
-       <td>Reader Response Prompt, Discussion Board, Feedback provided to fellow student(s).</td>
+       <td>
+      MLA/CCCC Task Force Report on Writing and AI; Investigation of AI tools to enhance writing; Ethical issues in the use of AI in writing
+     </td>
+       <td>Written report, Discussion thread, class discussion 
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Exploring%20Ethics%20of%20AI%20in%20World%20Flims">Exploring Ethics of AI in World Films</a></td>
