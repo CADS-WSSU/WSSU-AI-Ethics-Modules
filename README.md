@@ -62,7 +62,7 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
         Exercise or Sports Science
       </td>
       <td>
-        Case study analysis; Use of ChatGPT  to generate practice problems and workflows, check student devised answers of mathematical problems for accuracy
+        Case study analysis; Use of ChatGPT  to generate practice problems and workflows
       </td>
       <td>
             What is AI and what is it capable of; Using ChatGPT ethically for enhancing learning; Use of AI and machine learning in Gait Recognition
@@ -74,16 +74,16 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
     <tr>
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/AI%20Ethics%20Module%20in%20Elementary%20Statistics">AI Ethics Module in Elementary Statistics</a></td>
       <td>
-        Mathematics
+        Mathematics, Statistics
       </td>
       <td>
-        Hands-on Implementation using ChatGPT and COMPAS
+        Use of ChatGPT to understand its advantages and limitations; Hands-on project based on MS Excel to compare performances of two regression models
       </td>
        <td>
-            Assess the accuracy of ChatGPT, Bias in COMPAS
+            Critically evaluate the performance of an AI academic tool such as ChatGPT; Bias in AI systems; predicted recidivism; COMPAS algorithm
       </td>
         <td>
-        Hands-on Projects, Homework Assignment 
+        Hands-on Project, Quiz, Video Presentation 
       </td>
     </tr>
     <tr>
