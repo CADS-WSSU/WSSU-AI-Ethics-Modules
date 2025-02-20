@@ -1,5 +1,5 @@
 # Ethical Use Of AI For Artists
-In this module, students will be presented various approaches to learn the ethical uses of AI in image generation. This will help them become aware of the issue, prepare their ethical positions, present their views in rich context and finally to produce artwork without fear or harm using AI ethically.
+This module is incorporated into ART 4399, Studio Art Seminar course, which further prepares students for the transition from student life to that of a working artist. Students mount an exhibition of works and a professional portfolio selected and prepared during the Senior Art Studio course. In this module, students are presented with various approaches to learn the ethical uses of AI in image generation. The activities in this module help them become aware of the issue, prepare their ethical positions, present their views in rich context and finally to produce artwork without fear or harm using AI ethically.
 
 ## Learning Outcomes of this Module
 
