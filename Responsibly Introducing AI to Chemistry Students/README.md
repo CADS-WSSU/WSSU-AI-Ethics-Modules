@@ -38,6 +38,10 @@ higher education.
     </tr>
     <tr>
     <td><a href="https://drive.google.com/drive/folders/15lDfHj7fP__P7wQT2fciAX7Akw4wG65z?usp=sharing">Class Discussions and Assessment</a></td> 
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>
@@ -56,6 +60,10 @@ higher education.
     </tr>
     <tr>
     <td><a href="https://drive.google.com/drive/folders/1f8rNh_lW-xZ3wZZ3ieqzxXhMnd9t6UlO?usp=sharing">Assignments and Final Exam</a></td> 
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>
