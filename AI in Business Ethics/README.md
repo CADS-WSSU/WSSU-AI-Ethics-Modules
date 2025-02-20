@@ -13,7 +13,7 @@ This course module is integrated into BUA 3302 Business Ethics course at WSSU. B
 
 
 
-## Navigating the Repository
+## Navigating This Module
 <table>
   <tbody>
     <tr>
