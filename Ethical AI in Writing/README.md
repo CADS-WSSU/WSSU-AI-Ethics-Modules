@@ -1,5 +1,3 @@
-> [!NOTE]
-> Full module can be downloaded from [here](https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/blob/main/AI%20in%20Business%20Ethics/AI%20in%20Business%20Ethics%20Module.pdf). 
 # Ethical AI in Writing
 This module is integrated into ENG 3302 Advanced Composition class. In this module, students explore the ethical principles of using AI in the context of an Advanced Composition course. Students critically examine the role of AI tools in writing and assess their potential biases, fairness, and ethical implications. The objective is to raise awareness about responsible AI usage and develop a deeper understanding of AI ethics. This course is typically offered to English majors.
 
