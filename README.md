@@ -121,29 +121,28 @@ This grant is Supported by the Responsible Computing Challenge, a partnership of
         World Languages and Cultures
       </td>
       <td>
-        Hands-on
+       Article and book chapter analysis; Watch movie and justify opinion and position
       </td>
        <td>
-            Study of Russell and Norvig’s chapter on Philosophy, Ethics, and Safety of AI, Movie What Happened to Monday? Discussion on A.I. and Ethics, “Virtual Technology in Netflix K-Drama: Augmented
-Reality, Hologram, and Artificial Intelligence."
+         Russell & Norvig book chapter on Philosophy, Ethics, and Safety of AI; Movie: What Happened to Monday? K-pop series My Holo Love; Article analysis on AI Ethics 
       </td>
         <td>
-       Discussion Board, Assignemnt
+       Class discussion, Written report, Video presentation
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/WSSU-AI-Ethics-Modules/tree/main/Ethical%20Use%20Of%20AI%20For%20Artists">Ethical Use Of AI For Artists</a></td>
       <td>
-       Arts and Visual Studies
+       Arts, Visual Studies
       </td>
       <td>
-       Hands-on
+      Case study and media analysis; Classroom Role playing; Ethical and hands-on use of AI tools for creation of idea board or a concept collection of images
       </td>
        <td>
-          Ethical Uses of AI in Image Generation, Many ways to use AI, Difference between Dance Diffusion and Stable Diffusion, 3 Ways to use AI Ethically
+      What is AI Art? How do AI Art generators work? Copyright violation by AI Art generators; Ethical use of Art generator tools; Ethical issues in using AI for creative business decisions 
        </td>
        <td>
-          Assignment, Role Play, Art Project, Quiz
+          Discussion thread, debate, short essay, presentation, hands-on
        </td>
     </tr>
     
